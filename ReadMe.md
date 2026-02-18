@@ -1,18 +1,15 @@
 # Word Decomposition
+## Or: How many words does it take to bootstrap the rest of the English Language?
 
-## Backend
-- Port: 5000
-- Requirements: see `backend/requirements.txt`
-- Run steps:
+# What.
+Bootstrap as in `to construct something from existing pieces or systems`, not as in `framework`.
 
-  python -m venv .venv
-  .venv\Scripts\activate
-  pip -r backend/requirements.txt
-  python backend/app.py
+Let's take an arbitrary word and define it.
 
-## Client
-- From `frontend` directory using `yarn`:
-  yarn install
-  yarn dev
+> **excel** _v._ to be very good at something
 
+If we assume that the definition carries the equivalent meaning as the word, then the word was _bootstrapped_ via the existing words.
 
+Remove it from our language of words and the lanuage's ability to communicate information does not change.
+
+What happens if we keep going? If we find some core set of words which are either circularly defined or like leaf nodes.
