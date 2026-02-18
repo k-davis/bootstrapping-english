@@ -1,4 +1,18 @@
-_This project is a work in progress._
+# Word Decomposition
 
-# How many words does it take to bootstrap the English language?
+## Backend
+- Port: 5000
+- Requirements: see `backend/requirements.txt`
+- Run steps:
+
+  python -m venv .venv
+  .venv\Scripts\activate
+  pip -r backend/requirements.txt
+  python backend/app.py
+
+## Client
+- From `frontend` directory using `yarn`:
+  yarn install
+  yarn dev
+
 
