@@ -1,11 +1,11 @@
 .vscode/
 
-backend/__pycache__/
-backend/.venv/
+data generation/__pycache__/
+data generation/.venv/
 
-frontend/node_modules/
-frontend/package-lock.json
-frontend/yarn.lock
+graph visualizer/node_modules/
+graph visualizer/package-lock.json
+graph visualizer/yarn.lock
 
 *.wip
 *.ipynb

@@ -6,7 +6,7 @@ from Synset import Synset
 
 def disambiguate_synsets(word) -> list[Synset]:
     wn_synsets = wn.synsets(word)
-    return [Synset(s.name(), s.definition(), s.pos()) for s in wn_synsets]
+    return [Synset(s.name(), s.definition(), s.pos()) for s in wn_synsets] # type: ignore
         
 
 def split_sentence_into_synsets(sentence: str) -> list[Synset]:

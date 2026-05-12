@@ -1,5 +1,5 @@
 export default interface WordSense {
-  synset: string;
+  synset_id: string;
   definition: string;
   pos: string;
 }

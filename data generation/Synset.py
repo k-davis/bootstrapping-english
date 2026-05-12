@@ -7,14 +7,18 @@ class Synset:
         self.definition: str = definition
         self.pos: str = pos
 
+    def __str__(self) -> str:
+        return "Synset(name={}, pos={}, definition={})".format(self.name, self.pos, self.definition)
+    
     @classmethod
-    def from_wn_synset(cls, synset_name: str):
-        synset = wn.synset(synset_name)
-        return cls(synset.name(), synset.definition(), synset.pos())
+    def from_wn_synset(cls, synset_id: str):
+        synset = wn.synset(synset_id)
+        #lemmas = synset.Lemmas()
+        return cls(synset.name(), synset.definition(), synset.pos()) # type: ignore
 
     def to_dict(self) -> Dict[str, Any]:
         return {
-            "name": self.name,
+            "synset_id": self.name,
             "definition": self.definition,
             "pos": self.pos
         }

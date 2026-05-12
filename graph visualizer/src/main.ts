@@ -1,4 +1,4 @@
-import getWordSenses from "./api";
+import { getWordSenses } from "./api";
 import WordSense from "./models/WordSense";
 
 // Add a word 
@@ -17,16 +17,20 @@ const finalizeDecompositionBtn = document.getElementById("finalize-decomposition
 const undecomposedWordsList = document.getElementById("undecomposed-words-list") as HTMLUListElement;
 const decomposedWordsList = document.getElementById("decomposed-words-list") as HTMLUListElement;
 
+// Word states
+var currentlyFetchedWordSenses: WordSense[] = [];
+var wordBeingDecomposed: WordSense | null = null;
+
+
 fetchWordDefinitionsBtn.addEventListener("click", async () => {
-  const wordSenses = await getWordSenses(wordInput.value);
-  
-  // Add options to the definition dropdown
-  // clear existing options
+  // fetch the word senses for the input word,
+  currentlyFetchedWordSenses = await getWordSenses(wordInput.value);
+
+  //  add the senses's definitions as options for the sense diasmbiguation dropdown  
   definitionSelect.innerHTML = '';
-  // add a new option for each word sense
-  wordSenses.forEach((ws: WordSense) => {
+  currentlyFetchedWordSenses.forEach((ws: WordSense) => {
     const option = document.createElement("option");
-    option.value = ws.synset;
+    option.value = ws.synset_id;
     option.textContent = `(${ws.pos}) ${ws.definition}`;
     definitionSelect.appendChild(option);
   });
@@ -40,9 +44,10 @@ addWordToDecompositionBtn.addEventListener("click", () => {
     return;
   }
 
-  currentWordSpan.textContent = selectedOption.value;
+  wordBeingDecomposed = currentlyFetchedWordSenses.find(ws => ws.synset_id === selectedOption.value) || null;
+  currentWordSpan.textContent = wordBeingDecomposed?.synset_id || "ERR: Could not find word";
 
-  // TODO load the sense for the words in the definition
+  // load the sense for the words in the definition
 });
 
 
