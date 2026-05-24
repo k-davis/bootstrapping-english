@@ -1,0 +1,56 @@
+{
+   "leap.n.01": {
+      "synset_id": "leap.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a light, self-propelled movement upwards or forwards",
+         "decomposition": {
+            "1": "light.a.01",
+            "2": "self-propelled.s.02",
+            "3": "motion.n.06",
+            "4": "up.r.01",
+            "6": "forward.r.01"
+         }
+      }
+   },
+   "light.a.01": {
+      "synset_id": "light.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "of comparatively little physical weight or density",
+         "decomposition": null
+      }
+   },
+   "self-propelled.s.02": {
+      "synset_id": "self-propelled.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "moved forward by its own force or momentum",
+         "decomposition": null
+      }
+   },
+   "motion.n.06": {
+      "synset_id": "motion.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the act of changing location from one place to another",
+         "decomposition": null
+      }
+   },
+   "up.r.01": {
+      "synset_id": "up.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "spatially or metaphorically from a lower to a higher position",
+         "decomposition": null
+      }
+   },
+   "forward.r.01": {
+      "synset_id": "forward.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "at or to or toward the front; ; ; ; (`forrad' and `forrard' are dialectal variations)",
+         "decomposition": null
+      }
+   }
+}
