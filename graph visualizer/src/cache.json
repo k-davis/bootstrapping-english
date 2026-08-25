@@ -1,0 +1,240 @@
+{
+   "leap.n.01": {
+      "synset_id": "leap.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a light, self-propelled movement upwards or forwards",
+         "decomposition": {
+            "1": "light.a.01",
+            "2": "self-propelled.s.02",
+            "3": "motion.n.06",
+            "4": "up.r.01",
+            "6": "forward.r.01"
+         }
+      }
+   },
+   "light.a.01": {
+      "synset_id": "light.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "of comparatively little physical weight or density",
+         "decomposition": {
+            "1": "relatively.r.01",
+            "2": "little.a.02",
+            "3": "physical.s.02",
+            "4": "weight.n.01",
+            "6": "density.n.01"
+         }
+      }
+   },
+   "self-propelled.s.02": {
+      "synset_id": "self-propelled.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "moved forward by its own force or momentum",
+         "decomposition": {
+            "0": "move.v.02",
+            "1": "ahead.r.03",
+            "2": "by.r.01",
+            "3": "information_technology.n.01",
+            "4": "own.s.01",
+            "5": "force.n.01",
+            "7": "momentum.n.01"
+         }
+      }
+   },
+   "motion.n.06": {
+      "synset_id": "motion.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the act of changing location from one place to another",
+         "decomposition": {
+            "1": "act.v.01",
+            "3": "change.v.01",
+            "4": "location.n.01",
+            "6": "one.s.01",
+            "7": "place.n.04",
+            "9": "another.s.01"
+         }
+      }
+   },
+   "up.r.01": {
+      "synset_id": "up.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "spatially or metaphorically from a lower to a higher position",
+         "decomposition": null
+      }
+   },
+   "forward.r.01": {
+      "synset_id": "forward.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "at or to or toward the front; ; ; ; (`forrad' and `forrard' are dialectal variations)",
+         "decomposition": {
+            "14": "dialectal.a.01",
+            "15": "variation.n.01"
+         }
+      }
+   },
+   "relatively.r.01": {
+      "synset_id": "relatively.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in a relative manner; by comparison to something else",
+         "decomposition": null
+      }
+   },
+   "little.a.02": {
+      "synset_id": "little.a.02",
+      "pos": "a",
+      "definition": {
+         "definition_text": "(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some",
+         "decomposition": null
+      }
+   },
+   "physical.s.02": {
+      "synset_id": "physical.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "according with material things or natural laws (other than those peculiar to living matter)",
+         "decomposition": null
+      }
+   },
+   "weight.n.01": {
+      "synset_id": "weight.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the vertical force exerted by a mass as a result of gravity",
+         "decomposition": null
+      }
+   },
+   "density.n.01": {
+      "synset_id": "density.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the amount per unit size",
+         "decomposition": null
+      }
+   },
+   "move.v.02": {
+      "synset_id": "move.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+         "decomposition": null
+      }
+   },
+   "ahead.r.03": {
+      "synset_id": "ahead.r.03",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in a forward direction",
+         "decomposition": null
+      }
+   },
+   "by.r.01": {
+      "synset_id": "by.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "so as to pass a given point",
+         "decomposition": null
+      }
+   },
+   "information_technology.n.01": {
+      "synset_id": "information_technology.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+         "decomposition": null
+      }
+   },
+   "own.s.01": {
+      "synset_id": "own.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "belonging to or on behalf of a specified person (especially yourself); preceded by a possessive",
+         "decomposition": null
+      }
+   },
+   "force.n.01": {
+      "synset_id": "force.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a powerful effect or influence",
+         "decomposition": null
+      }
+   },
+   "momentum.n.01": {
+      "synset_id": "momentum.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an impelling force or strength",
+         "decomposition": null
+      }
+   },
+   "act.v.01": {
+      "synset_id": "act.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform an action, or work out or perform (an action)",
+         "decomposition": null
+      }
+   },
+   "change.v.01": {
+      "synset_id": "change.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to change; make different; cause a transformation",
+         "decomposition": null
+      }
+   },
+   "location.n.01": {
+      "synset_id": "location.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a point or extent in space",
+         "decomposition": null
+      }
+   },
+   "one.s.01": {
+      "synset_id": "one.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "used of a single unit or thing; not two or more",
+         "decomposition": null
+      }
+   },
+   "place.n.04": {
+      "synset_id": "place.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a general vicinity",
+         "decomposition": null
+      }
+   },
+   "another.s.01": {
+      "synset_id": "another.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "any of various alternatives; some other",
+         "decomposition": null
+      }
+   },
+   "dialectal.a.01": {
+      "synset_id": "dialectal.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "belonging to or characteristic of a dialect",
+         "decomposition": null
+      }
+   },
+   "variation.n.01": {
+      "synset_id": "variation.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an instance of change; the rate or magnitude of change",
+         "decomposition": null
+      }
+   }
+}

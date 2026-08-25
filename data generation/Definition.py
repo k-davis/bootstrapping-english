@@ -8,11 +8,11 @@ class Definition:
         self.is_decomposed: bool = False
 
     def tokenize_definition(self, definition: str) -> list[str]:
+        # TODO tokenizatin needs improvment. Leaves some punctuation on tokens and surrounded by spaces
         tokens = definition.split(" ")
         tokens = [token.strip(",.()\"") for token in tokens]
         return tokens
 
-    # Returns the index within the original definition
     def interesting_tokens(self) -> list[tuple[int, str]]:
         boring_tokens = set(["a", "an",
                              "the", 
@@ -22,6 +22,7 @@ class Definition:
                              "in", "on", "at", "of"])
         
         all_enumerated_tokens = enumerate(self.definition_tokens)
+        # Returns the index within the original definition
         return [(i, token) for i, token in all_enumerated_tokens if token not in boring_tokens]
 
     def __str__(self) -> str:

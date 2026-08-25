@@ -1,0 +1,1386 @@
+{
+   "leap.n.01": {
+      "synset_id": "leap.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a light, self-propelled movement upwards or forwards",
+         "decomposition": null
+      }
+   },
+   "light.a.01": {
+      "synset_id": "light.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "of comparatively little physical weight or density",
+         "decomposition": null
+      }
+   },
+   "self-propelled.s.02": {
+      "synset_id": "self-propelled.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "moved forward by its own force or momentum",
+         "decomposition": null
+      }
+   },
+   "motion.n.06": {
+      "synset_id": "motion.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the act of changing location from one place to another",
+         "decomposition": null
+      }
+   },
+   "up.r.01": {
+      "synset_id": "up.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "spatially or metaphorically from a lower to a higher position",
+         "decomposition": null
+      }
+   },
+   "forward.r.01": {
+      "synset_id": "forward.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "at or to or toward the front; ; ; ; (`forrad' and `forrard' are dialectal variations)",
+         "decomposition": null
+      }
+   },
+   "relatively.r.01": {
+      "synset_id": "relatively.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in a relative manner; by comparison to something else",
+         "decomposition": null
+      }
+   },
+   "little.n.01": {
+      "synset_id": "little.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a small amount or duration",
+         "decomposition": null
+      }
+   },
+   "small.a.01": {
+      "synset_id": "small.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "limited or below average in number or quantity or magnitude or extent",
+         "decomposition": null
+      }
+   },
+   "little.a.02": {
+      "synset_id": "little.a.02",
+      "pos": "a",
+      "definition": {
+         "definition_text": "(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some",
+         "decomposition": null
+      }
+   },
+   "little.s.01": {
+      "synset_id": "little.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "(of children and animals) young, immature",
+         "decomposition": null
+      }
+   },
+   "fiddling.s.01": {
+      "synset_id": "fiddling.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "(informal) small and of little importance",
+         "decomposition": null
+      }
+   },
+   "little.s.03": {
+      "synset_id": "little.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "(of a voice) faint",
+         "decomposition": null
+      }
+   },
+   "short.a.03": {
+      "synset_id": "short.a.03",
+      "pos": "a",
+      "definition": {
+         "definition_text": "low in stature; not tall",
+         "decomposition": null
+      }
+   },
+   "little.s.04": {
+      "synset_id": "little.s.04",
+      "pos": "s",
+      "definition": {
+         "definition_text": "lowercase",
+         "decomposition": null
+      }
+   },
+   "little.s.05": {
+      "synset_id": "little.s.05",
+      "pos": "s",
+      "definition": {
+         "definition_text": "small in a way that arouses feelings (of tenderness or its opposite depending on the context)",
+         "decomposition": null
+      }
+   },
+   "little.r.01": {
+      "synset_id": "little.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "not much",
+         "decomposition": null
+      }
+   },
+   "physical.a.01": {
+      "synset_id": "physical.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "involving the body as distinguished from the mind or spirit",
+         "decomposition": null
+      }
+   },
+   "physical.a.02": {
+      "synset_id": "physical.a.02",
+      "pos": "a",
+      "definition": {
+         "definition_text": "relating to the sciences dealing with matter and energy; especially physics",
+         "decomposition": null
+      }
+   },
+   "physical.s.01": {
+      "synset_id": "physical.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "having substance or material existence; perceptible to the senses",
+         "decomposition": null
+      }
+   },
+   "physical.s.02": {
+      "synset_id": "physical.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "according with material things or natural laws (other than those peculiar to living matter)",
+         "decomposition": null
+      }
+   },
+   "physical.s.03": {
+      "synset_id": "physical.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "characterized by energetic bodily activity",
+         "decomposition": null
+      }
+   },
+   "forcible.s.01": {
+      "synset_id": "forcible.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "impelled by physical force especially against resistance",
+         "decomposition": null
+      }
+   },
+   "physical.s.05": {
+      "synset_id": "physical.s.05",
+      "pos": "s",
+      "definition": {
+         "definition_text": "concerned with material things",
+         "decomposition": null
+      }
+   },
+   "weight.n.01": {
+      "synset_id": "weight.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the vertical force exerted by a mass as a result of gravity",
+         "decomposition": null
+      }
+   },
+   "weight.n.02": {
+      "synset_id": "weight.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms",
+         "decomposition": null
+      }
+   },
+   "weight.n.03": {
+      "synset_id": "weight.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the relative importance granted to something",
+         "decomposition": null
+      }
+   },
+   "weight.n.04": {
+      "synset_id": "weight.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an artifact that is heavy",
+         "decomposition": null
+      }
+   },
+   "weight.n.05": {
+      "synset_id": "weight.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an oppressive feeling of heavy force",
+         "decomposition": null
+      }
+   },
+   "system_of_weights.n.01": {
+      "synset_id": "system_of_weights.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a system of units used to express the weight of something",
+         "decomposition": null
+      }
+   },
+   "weight_unit.n.02": {
+      "synset_id": "weight_unit.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a unit used to measure weight",
+         "decomposition": null
+      }
+   },
+   "weight.n.08": {
+      "synset_id": "weight.n.08",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance",
+         "decomposition": null
+      }
+   },
+   "burden.v.01": {
+      "synset_id": "burden.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "weight down with a load",
+         "decomposition": null
+      }
+   },
+   "slant.v.02": {
+      "synset_id": "slant.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "present with a bias",
+         "decomposition": null
+      }
+   },
+   "density.n.01": {
+      "synset_id": "density.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the amount per unit size",
+         "decomposition": null
+      }
+   },
+   "concentration.n.02": {
+      "synset_id": "concentration.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the spatial property of being crowded together",
+         "decomposition": null
+      }
+   },
+   "act.n.01": {
+      "synset_id": "act.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a legal document codifying the result of deliberations of a committee or society or legislative body",
+         "decomposition": null
+      }
+   },
+   "act.n.02": {
+      "synset_id": "act.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "something that people do or cause to happen",
+         "decomposition": null
+      }
+   },
+   "act.n.03": {
+      "synset_id": "act.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a subdivision of a play or opera or ballet",
+         "decomposition": null
+      }
+   },
+   "act.n.04": {
+      "synset_id": "act.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a short theatrical performance that is part of a longer program",
+         "decomposition": null
+      }
+   },
+   "act.n.05": {
+      "synset_id": "act.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a manifestation of insincerity",
+         "decomposition": null
+      }
+   },
+   "act.v.01": {
+      "synset_id": "act.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform an action, or work out or perform (an action)",
+         "decomposition": null
+      }
+   },
+   "act.v.02": {
+      "synset_id": "act.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "behave in a certain manner; show a certain behavior; conduct or comport oneself",
+         "decomposition": null
+      }
+   },
+   "act.v.03": {
+      "synset_id": "act.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "play a role or part",
+         "decomposition": null
+      }
+   },
+   "act.v.04": {
+      "synset_id": "act.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "discharge one's duties",
+         "decomposition": null
+      }
+   },
+   "act.v.05": {
+      "synset_id": "act.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "pretend to have certain qualities or state of mind",
+         "decomposition": null
+      }
+   },
+   "act.v.06": {
+      "synset_id": "act.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be suitable for theatrical performance",
+         "decomposition": null
+      }
+   },
+   "work.v.03": {
+      "synset_id": "work.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have an effect or outcome; often the one desired or expected",
+         "decomposition": null
+      }
+   },
+   "act.v.08": {
+      "synset_id": "act.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be engaged in an activity, often for no particular purpose other than pleasure",
+         "decomposition": null
+      }
+   },
+   "dissemble.v.03": {
+      "synset_id": "dissemble.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "behave unnaturally or affectedly",
+         "decomposition": null
+      }
+   },
+   "act.v.10": {
+      "synset_id": "act.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform on a stage or theater",
+         "decomposition": null
+      }
+   },
+   "change.v.01": {
+      "synset_id": "change.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to change; make different; cause a transformation",
+         "decomposition": null
+      }
+   },
+   "change.v.02": {
+      "synset_id": "change.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "undergo a change; become different in essence; losing one's or its original nature",
+         "decomposition": null
+      }
+   },
+   "change.v.03": {
+      "synset_id": "change.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "become different in some particular way, without permanently losing one's or its former characteristics or essence",
+         "decomposition": null
+      }
+   },
+   "switch.v.03": {
+      "synset_id": "switch.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "lay aside, abandon, or leave for another",
+         "decomposition": null
+      }
+   },
+   "change.v.05": {
+      "synset_id": "change.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "change clothes; put on different clothes",
+         "decomposition": null
+      }
+   },
+   "change.v.06": {
+      "synset_id": "change.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "exchange or replace with another, usually of the same kind or category",
+         "decomposition": null
+      }
+   },
+   "exchange.v.01": {
+      "synset_id": "exchange.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give to, and receive from, one another",
+         "decomposition": null
+      }
+   },
+   "transfer.v.06": {
+      "synset_id": "transfer.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "change from one vehicle or transportation line to another",
+         "decomposition": null
+      }
+   },
+   "deepen.v.04": {
+      "synset_id": "deepen.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "become deeper in tone",
+         "decomposition": null
+      }
+   },
+   "change.v.10": {
+      "synset_id": "change.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "remove or replace the coverings of",
+         "decomposition": null
+      }
+   },
+   "changing.s.01": {
+      "synset_id": "changing.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "marked by continuous change or effective action",
+         "decomposition": null
+      }
+   },
+   "location.n.01": {
+      "synset_id": "location.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a point or extent in space",
+         "decomposition": null
+      }
+   },
+   "placement.n.03": {
+      "synset_id": "placement.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the act of putting something in a certain place",
+         "decomposition": null
+      }
+   },
+   "localization.n.01": {
+      "synset_id": "localization.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a determination of the place where something is",
+         "decomposition": null
+      }
+   },
+   "location.n.04": {
+      "synset_id": "location.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a workplace away from a studio at which some or all of a movie may be made",
+         "decomposition": null
+      }
+   },
+   "one.n.01": {
+      "synset_id": "one.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the smallest whole number or a numeral representing this number",
+         "decomposition": null
+      }
+   },
+   "one.n.02": {
+      "synset_id": "one.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a single person or thing",
+         "decomposition": null
+      }
+   },
+   "one.s.01": {
+      "synset_id": "one.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "used of a single unit or thing; not two or more",
+         "decomposition": null
+      }
+   },
+   "one.s.02": {
+      "synset_id": "one.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "having the indivisible character of a unit",
+         "decomposition": null
+      }
+   },
+   "one.s.03": {
+      "synset_id": "one.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "of the same kind or quality",
+         "decomposition": null
+      }
+   },
+   "one.s.04": {
+      "synset_id": "one.s.04",
+      "pos": "s",
+      "definition": {
+         "definition_text": "used informally as an intensifier",
+         "decomposition": null
+      }
+   },
+   "one.s.05": {
+      "synset_id": "one.s.05",
+      "pos": "s",
+      "definition": {
+         "definition_text": "indefinite in time or position",
+         "decomposition": null
+      }
+   },
+   "one.s.06": {
+      "synset_id": "one.s.06",
+      "pos": "s",
+      "definition": {
+         "definition_text": "being a single entity made by combining separate components",
+         "decomposition": null
+      }
+   },
+   "matchless.s.01": {
+      "synset_id": "matchless.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "eminent beyond or above comparison",
+         "decomposition": null
+      }
+   },
+   "topographic_point.n.01": {
+      "synset_id": "topographic_point.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a point located with respect to surface features of some region",
+         "decomposition": null
+      }
+   },
+   "place.n.02": {
+      "synset_id": "place.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "any area set aside for a particular purpose",
+         "decomposition": null
+      }
+   },
+   "place.n.03": {
+      "synset_id": "place.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an abstract mental location",
+         "decomposition": null
+      }
+   },
+   "place.n.04": {
+      "synset_id": "place.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a general vicinity",
+         "decomposition": null
+      }
+   },
+   "stead.n.01": {
+      "synset_id": "stead.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the post or function properly or customarily occupied or served by another",
+         "decomposition": null
+      }
+   },
+   "place.n.06": {
+      "synset_id": "place.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a particular situation",
+         "decomposition": null
+      }
+   },
+   "home.n.01": {
+      "synset_id": "home.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "where you live at a particular time",
+         "decomposition": null
+      }
+   },
+   "position.n.06": {
+      "synset_id": "position.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a job in an organization",
+         "decomposition": null
+      }
+   },
+   "position.n.01": {
+      "synset_id": "position.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the particular portion of space occupied by something",
+         "decomposition": null
+      }
+   },
+   "place.n.10": {
+      "synset_id": "place.n.10",
+      "pos": "n",
+      "definition": {
+         "definition_text": "proper or designated social situation",
+         "decomposition": null
+      }
+   },
+   "seat.n.01": {
+      "synset_id": "seat.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a space reserved for sitting (as in a theater or on a train or airplane)",
+         "decomposition": null
+      }
+   },
+   "place.n.12": {
+      "synset_id": "place.n.12",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the passage that is being read",
+         "decomposition": null
+      }
+   },
+   "place.n.13": {
+      "synset_id": "place.n.13",
+      "pos": "n",
+      "definition": {
+         "definition_text": "proper or appropriate position or location",
+         "decomposition": null
+      }
+   },
+   "plaza.n.01": {
+      "synset_id": "plaza.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a public square with room for pedestrians",
+         "decomposition": null
+      }
+   },
+   "place.n.15": {
+      "synset_id": "place.n.15",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an item on a list or in a sequence",
+         "decomposition": null
+      }
+   },
+   "space.n.07": {
+      "synset_id": "space.n.07",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a blank area",
+         "decomposition": null
+      }
+   },
+   "put.v.01": {
+      "synset_id": "put.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "put into a certain place or abstract location",
+         "decomposition": null
+      }
+   },
+   "place.v.02": {
+      "synset_id": "place.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "place somebody in a particular situation or location",
+         "decomposition": null
+      }
+   },
+   "rate.v.01": {
+      "synset_id": "rate.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "assign a rank or rating to",
+         "decomposition": null
+      }
+   },
+   "locate.v.03": {
+      "synset_id": "locate.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "assign a location to",
+         "decomposition": null
+      }
+   },
+   "place.v.05": {
+      "synset_id": "place.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to arrange for",
+         "decomposition": null
+      }
+   },
+   "place.v.06": {
+      "synset_id": "place.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "take a place in a competition; often followed by an ordinal",
+         "decomposition": null
+      }
+   },
+   "target.v.01": {
+      "synset_id": "target.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "intend (something) to move towards a certain goal",
+         "decomposition": null
+      }
+   },
+   "identify.v.01": {
+      "synset_id": "identify.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "recognize as being; establish the identity of someone or something",
+         "decomposition": null
+      }
+   },
+   "place.v.09": {
+      "synset_id": "place.v.09",
+      "pos": "v",
+      "definition": {
+         "definition_text": "assign to (a job or a home)",
+         "decomposition": null
+      }
+   },
+   "set.v.09": {
+      "synset_id": "set.v.09",
+      "pos": "v",
+      "definition": {
+         "definition_text": "locate",
+         "decomposition": null
+      }
+   },
+   "place.v.11": {
+      "synset_id": "place.v.11",
+      "pos": "v",
+      "definition": {
+         "definition_text": "estimate",
+         "decomposition": null
+      }
+   },
+   "place.v.12": {
+      "synset_id": "place.v.12",
+      "pos": "v",
+      "definition": {
+         "definition_text": "identify the location or place of",
+         "decomposition": null
+      }
+   },
+   "invest.v.01": {
+      "synset_id": "invest.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "make an investment",
+         "decomposition": null
+      }
+   },
+   "station.v.01": {
+      "synset_id": "station.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "assign to a station",
+         "decomposition": null
+      }
+   },
+   "place.v.15": {
+      "synset_id": "place.v.15",
+      "pos": "v",
+      "definition": {
+         "definition_text": "finish second or better in a horse or dog race",
+         "decomposition": null
+      }
+   },
+   "place.v.16": {
+      "synset_id": "place.v.16",
+      "pos": "v",
+      "definition": {
+         "definition_text": "sing a note with the correct pitch",
+         "decomposition": null
+      }
+   },
+   "another.s.01": {
+      "synset_id": "another.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "any of various alternatives; some other",
+         "decomposition": null
+      }
+   },
+   "travel.v.01": {
+      "synset_id": "travel.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "change location; move, travel, or proceed, also metaphorically",
+         "decomposition": null
+      }
+   },
+   "move.v.02": {
+      "synset_id": "move.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+         "decomposition": null
+      }
+   },
+   "move.v.03": {
+      "synset_id": "move.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move so as to change position, perform a nontranslational motion",
+         "decomposition": null
+      }
+   },
+   "move.v.04": {
+      "synset_id": "move.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "change residence, affiliation, or place of employment",
+         "decomposition": null
+      }
+   },
+   "go.v.02": {
+      "synset_id": "go.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "follow a procedure or take a course",
+         "decomposition": null
+      }
+   },
+   "be_active.v.01": {
+      "synset_id": "be_active.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be in a state of action",
+         "decomposition": null
+      }
+   },
+   "move.v.07": {
+      "synset_id": "move.v.07",
+      "pos": "v",
+      "definition": {
+         "definition_text": "go or proceed from one point to another",
+         "decomposition": null
+      }
+   },
+   "affect.v.05": {
+      "synset_id": "affect.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have an emotional or cognitive impact upon",
+         "decomposition": null
+      }
+   },
+   "motivate.v.01": {
+      "synset_id": "motivate.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give an incentive for action",
+         "decomposition": null
+      }
+   },
+   "move.v.11": {
+      "synset_id": "move.v.11",
+      "pos": "v",
+      "definition": {
+         "definition_text": "arouse sympathy or compassion in",
+         "decomposition": null
+      }
+   },
+   "move.v.12": {
+      "synset_id": "move.v.12",
+      "pos": "v",
+      "definition": {
+         "definition_text": "dispose of by selling",
+         "decomposition": null
+      }
+   },
+   "move.v.13": {
+      "synset_id": "move.v.13",
+      "pos": "v",
+      "definition": {
+         "definition_text": "progress by being changed",
+         "decomposition": null
+      }
+   },
+   "move.v.14": {
+      "synset_id": "move.v.14",
+      "pos": "v",
+      "definition": {
+         "definition_text": "live one's life in a specified environment",
+         "decomposition": null
+      }
+   },
+   "move.v.15": {
+      "synset_id": "move.v.15",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have a turn; make one's move in a game",
+         "decomposition": null
+      }
+   },
+   "move.v.16": {
+      "synset_id": "move.v.16",
+      "pos": "v",
+      "definition": {
+         "definition_text": "propose formally; in a debate or parliamentary meeting",
+         "decomposition": null
+      }
+   },
+   "moved.a.01": {
+      "synset_id": "moved.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "being excited or provoked to the expression of an emotion",
+         "decomposition": null
+      }
+   },
+   "forward.n.01": {
+      "synset_id": "forward.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
+         "decomposition": null
+      }
+   },
+   "forward.n.02": {
+      "synset_id": "forward.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a position on a basketball, soccer, or hockey team",
+         "decomposition": null
+      }
+   },
+   "forward.v.01": {
+      "synset_id": "forward.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "send or ship onward from an intermediate post or station in transit",
+         "decomposition": null
+      }
+   },
+   "forward.a.01": {
+      "synset_id": "forward.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "at or near or directed toward the front",
+         "decomposition": null
+      }
+   },
+   "forward.a.02": {
+      "synset_id": "forward.a.02",
+      "pos": "a",
+      "definition": {
+         "definition_text": "used of temperament or behavior; lacking restraint or modesty",
+         "decomposition": null
+      }
+   },
+   "forward.a.03": {
+      "synset_id": "forward.a.03",
+      "pos": "a",
+      "definition": {
+         "definition_text": "of the transmission gear causing forward movement in a motor vehicle",
+         "decomposition": null
+      }
+   },
+   "advancing.s.01": {
+      "synset_id": "advancing.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "moving forward",
+         "decomposition": null
+      }
+   },
+   "forth.r.02": {
+      "synset_id": "forth.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "forward in time or order or degree",
+         "decomposition": null
+      }
+   },
+   "ahead.r.02": {
+      "synset_id": "ahead.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "toward the future; forward in time",
+         "decomposition": null
+      }
+   },
+   "ahead.r.03": {
+      "synset_id": "ahead.r.03",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in a forward direction",
+         "decomposition": null
+      }
+   },
+   "fore.r.01": {
+      "synset_id": "fore.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "near or toward the bow of a ship or cockpit of a plane",
+         "decomposition": null
+      }
+   },
+   "by.r.01": {
+      "synset_id": "by.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "so as to pass a given point",
+         "decomposition": null
+      }
+   },
+   "aside.r.06": {
+      "synset_id": "aside.r.06",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in reserve; not for immediate use",
+         "decomposition": null
+      }
+   },
+   "information_technology.n.01": {
+      "synset_id": "information_technology.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+         "decomposition": null
+      }
+   },
+   "own.v.01": {
+      "synset_id": "own.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have ownership or possession of",
+         "decomposition": null
+      }
+   },
+   "own.s.01": {
+      "synset_id": "own.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "belonging to or on behalf of a specified person (especially yourself); preceded by a possessive",
+         "decomposition": null
+      }
+   },
+   "force.n.01": {
+      "synset_id": "force.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a powerful effect or influence",
+         "decomposition": null
+      }
+   },
+   "force.n.02": {
+      "synset_id": "force.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(physics) the influence that produces a change in a physical quantity",
+         "decomposition": null
+      }
+   },
+   "force.n.03": {
+      "synset_id": "force.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "physical energy or intensity",
+         "decomposition": null
+      }
+   },
+   "force.n.04": {
+      "synset_id": "force.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "group of people willing to obey orders",
+         "decomposition": null
+      }
+   },
+   "military_unit.n.01": {
+      "synset_id": "military_unit.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a unit that is part of some military service",
+         "decomposition": null
+      }
+   },
+   "violence.n.01": {
+      "synset_id": "violence.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an act of aggression (as one against a person who resists)",
+         "decomposition": null
+      }
+   },
+   "power.n.05": {
+      "synset_id": "power.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "one possessing or exercising power or influence or authority",
+         "decomposition": null
+      }
+   },
+   "force.n.08": {
+      "synset_id": "force.n.08",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a group of people having the power of effective action",
+         "decomposition": null
+      }
+   },
+   "effect.n.05": {
+      "synset_id": "effect.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(of a law) having legal validity",
+         "decomposition": null
+      }
+   },
+   "force_out.n.01": {
+      "synset_id": "force_out.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a putout of a base runner who is required to run; the putout is accomplished by holding the ball while touching the base to which the runner must advance before the runner reaches that base",
+         "decomposition": null
+      }
+   },
+   "coerce.v.01": {
+      "synset_id": "coerce.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to cause to do through pressure or necessity, by physical, moral or intellectual means :",
+         "decomposition": null
+      }
+   },
+   "impel.v.01": {
+      "synset_id": "impel.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "urge or force (a person) to an action; constrain or motivate",
+         "decomposition": null
+      }
+   },
+   "push.v.01": {
+      "synset_id": "push.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move with force,",
+         "decomposition": null
+      }
+   },
+   "force.v.04": {
+      "synset_id": "force.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "impose urgently, importunately, or inexorably",
+         "decomposition": null
+      }
+   },
+   "wedge.v.02": {
+      "synset_id": "wedge.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "squeeze like a wedge into a tight space",
+         "decomposition": null
+      }
+   },
+   "force.v.06": {
+      "synset_id": "force.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "force into or from an action or state, either physically or metaphorically",
+         "decomposition": null
+      }
+   },
+   "pull.v.01": {
+      "synset_id": "pull.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to move by pulling",
+         "decomposition": null
+      }
+   },
+   "force.v.08": {
+      "synset_id": "force.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "do forcibly; exert force",
+         "decomposition": null
+      }
+   },
+   "storm.v.02": {
+      "synset_id": "storm.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "take by force",
+         "decomposition": null
+      }
+   },
+   "momentum.n.01": {
+      "synset_id": "momentum.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an impelling force or strength",
+         "decomposition": null
+      }
+   },
+   "momentum.n.02": {
+      "synset_id": "momentum.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the product of a body's mass and its velocity",
+         "decomposition": null
+      }
+   },
+   "dialectal.a.01": {
+      "synset_id": "dialectal.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "belonging to or characteristic of a dialect",
+         "decomposition": null
+      }
+   },
+   "variation.n.01": {
+      "synset_id": "variation.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an instance of change; the rate or magnitude of change",
+         "decomposition": null
+      }
+   },
+   "variation.n.02": {
+      "synset_id": "variation.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an activity that varies from a norm or standard",
+         "decomposition": null
+      }
+   },
+   "variation.n.03": {
+      "synset_id": "variation.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a repetition of a musical theme in which it is modified or embellished",
+         "decomposition": null
+      }
+   },
+   "version.n.02": {
+      "synset_id": "version.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "something a little different from others of the same type",
+         "decomposition": null
+      }
+   },
+   "variation.n.05": {
+      "synset_id": "variation.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an artifact that deviates from a norm or standard",
+         "decomposition": null
+      }
+   },
+   "magnetic_declination.n.01": {
+      "synset_id": "magnetic_declination.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the angle (at a particular location) between magnetic north and true north",
+         "decomposition": null
+      }
+   },
+   "variation.n.07": {
+      "synset_id": "variation.n.07",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the process of varying or being varied",
+         "decomposition": null
+      }
+   },
+   "variation.n.08": {
+      "synset_id": "variation.n.08",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(astronomy) any perturbation of the mean motion or orbit of a planet or satellite (especially a perturbation of the earth's moon)",
+         "decomposition": null
+      }
+   },
+   "mutant.n.01": {
+      "synset_id": "mutant.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(biology) an organism that has characteristics resulting from chromosomal alteration",
+         "decomposition": null
+      }
+   },
+   "pas_seul.n.01": {
+      "synset_id": "pas_seul.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(ballet) a solo dance or dance figure",
+         "decomposition": null
+      }
+   },
+   "variation.n.11": {
+      "synset_id": "variation.n.11",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the act of changing or altering something slightly but noticeably from the norm or standard",
+         "decomposition": null
+      }
+   }
+}

@@ -1,15 +1,15 @@
+from __future__ import annotations
 from typing import Any, Dict
 from typing_extensions import Self
 from nltk.corpus import wordnet as wn 
 from Definition import Definition
-from pathlib import Path
-import json
+import src.models.SynsetCache
 
 class Synset:
     # Some synsets are created, but not selected during the decomposition process. We do not want these.
-    cached_synsets: Dict[str, 'Synset'] = {}
-
-    # todo add get or create via __new__
+    #cached_synsets: Dict[str, 'Synset'] = {}
+    cache: src.models.SynsetCache.SynsetCache
+    # TODO add get or create via __new__
 
     def __init__(self, synset_id: str, definition: str, pos: str):
         self.synset_id: str = synset_id
@@ -30,40 +30,22 @@ class Synset:
         return f"{self.word} ({self.pos}): {self.definition}"
     
     @classmethod
-    def save_cache(cls):
-        with open("cache.json", "w") as f:
-            json.dump(cls.all_to_dict(), f, indent=3)
-
-    @classmethod
-    def load_cache(cls):
-        if not Path("cache.json").exists():
-            return
-        
-        with open("cache.json", "r") as f:
-            cache = json.load(f)
-            for synset_id, synset_dict in cache.items():
-                cls.cached_synsets[synset_id] = Synset.from_dict(synset_dict)
-
-    @classmethod
     def from_wn_synset(cls, synset_id: str):
-        synset = wn.synset(synset_id)
-        #lemmas = synset.Lemmas()
-        return cls(synset.name(), synset.definition(), synset.pos()) # type: ignore
+        # try to read from cache
+        if synset_id in cls.cache:
+            return cls.cache.get(synset_id)
 
-    @classmethod
-    def all_to_dict(cls) -> Dict[str, Any]:
-        return {synset_id: synset.to_dict() for (synset_id, synset) in Synset.cached_synsets.items()}
-
-    @classmethod
-    def all_to_stringy_json(cls) -> str:
-        all_json = cls.all_to_dict()
-        return json.dumps(all_json, indent=4)
-
+        else:
+            wn_synset = wn.synset(synset_id)
+            new_synset = cls(wn_synset.name(), wn_synset.definition(), wn_synset.pos()) # type: ignore
+            cls.cache.set(new_synset)
+            return new_synset
+        
     def to_dict(self) -> Dict[str, Any]:
         return {
             "synset_id": self.synset_id,
             "pos": self.pos,
-            "definition": self.definition.to_dict(),
+            "definition": self.definition.to_dict() if self.definition else None,
         }
     
     @classmethod

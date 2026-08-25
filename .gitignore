@@ -1,7 +1,7 @@
 .vscode/
 
-data generation/__pycache__/
-data generation/.venv/
+data generation/**/__pycache__/
+data generation/**/.venv/
 
 graph visualizer/node_modules/
 graph visualizer/package-lock.json
