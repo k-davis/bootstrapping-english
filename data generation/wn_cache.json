@@ -1382,5 +1382,2237 @@
          "definition_text": "the act of changing or altering something slightly but noticeably from the norm or standard",
          "decomposition": null
       }
+   },
+   "perform.v.01": {
+      "synset_id": "perform.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "carry out or perform an action",
+         "decomposition": null
+      }
+   },
+   "perform.v.02": {
+      "synset_id": "perform.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform a function",
+         "decomposition": null
+      }
+   },
+   "perform.v.03": {
+      "synset_id": "perform.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give a performance (of something)",
+         "decomposition": null
+      }
+   },
+   "do.v.03": {
+      "synset_id": "do.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "get (something) done",
+         "decomposition": null
+      }
+   },
+   "action.n.01": {
+      "synset_id": "action.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "something done (usually as opposed to something said)",
+         "decomposition": null
+      }
+   },
+   "action.n.02": {
+      "synset_id": "action.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the state of being active",
+         "decomposition": null
+      }
+   },
+   "military_action.n.01": {
+      "synset_id": "military_action.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a military engagement",
+         "decomposition": null
+      }
+   },
+   "natural_process.n.01": {
+      "synset_id": "natural_process.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a process existing in or produced by nature (rather than by the intent of human beings)",
+         "decomposition": null
+      }
+   },
+   "action.n.05": {
+      "synset_id": "action.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the series of events that form a plot",
+         "decomposition": null
+      }
+   },
+   "action.n.06": {
+      "synset_id": "action.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the trait of being active and energetic and forceful",
+         "decomposition": null
+      }
+   },
+   "action.n.07": {
+      "synset_id": "action.n.07",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the operating part that transmits power to a mechanism",
+         "decomposition": null
+      }
+   },
+   "legal_action.n.01": {
+      "synset_id": "legal_action.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong",
+         "decomposition": null
+      }
+   },
+   "action.n.09": {
+      "synset_id": "action.n.09",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an act by a government body or supranational organization",
+         "decomposition": null
+      }
+   },
+   "action.n.10": {
+      "synset_id": "action.n.10",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the most important or interesting work or activity in a specific area or field",
+         "decomposition": null
+      }
+   },
+   "action.v.01": {
+      "synset_id": "action.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "institute legal proceedings against; file a suit against",
+         "decomposition": null
+      }
+   },
+   "carry_through.v.01": {
+      "synset_id": "carry_through.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "put in effect",
+         "decomposition": null
+      }
+   },
+   "work.n.01": {
+      "synset_id": "work.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "activity directed toward making or doing something",
+         "decomposition": null
+      }
+   },
+   "work.n.02": {
+      "synset_id": "work.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a product produced or accomplished through the effort or activity or agency of a person or thing",
+         "decomposition": null
+      }
+   },
+   "employment.n.02": {
+      "synset_id": "employment.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the occupation for which you are paid",
+         "decomposition": null
+      }
+   },
+   "study.n.02": {
+      "synset_id": "study.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "applying the mind to learning and understanding a subject (especially by reading)",
+         "decomposition": null
+      }
+   },
+   "work.n.05": {
+      "synset_id": "work.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force",
+         "decomposition": null
+      }
+   },
+   "workplace.n.01": {
+      "synset_id": "workplace.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a place where work is done",
+         "decomposition": null
+      }
+   },
+   "oeuvre.n.01": {
+      "synset_id": "oeuvre.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the total output of a writer or artist (or a substantial part of it)",
+         "decomposition": null
+      }
+   },
+   "work.v.01": {
+      "synset_id": "work.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "exert oneself by doing mental or physical work for a purpose or out of necessity",
+         "decomposition": null
+      }
+   },
+   "work.v.02": {
+      "synset_id": "work.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be employed",
+         "decomposition": null
+      }
+   },
+   "function.v.01": {
+      "synset_id": "function.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform as expected when applied",
+         "decomposition": null
+      }
+   },
+   "work.v.05": {
+      "synset_id": "work.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "shape, form, or improve a material",
+         "decomposition": null
+      }
+   },
+   "exercise.v.03": {
+      "synset_id": "exercise.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give a workout to",
+         "decomposition": null
+      }
+   },
+   "make.v.36": {
+      "synset_id": "make.v.36",
+      "pos": "v",
+      "definition": {
+         "definition_text": "proceed along a path",
+         "decomposition": null
+      }
+   },
+   "work.v.08": {
+      "synset_id": "work.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "operate in a certain place, area, or specialty",
+         "decomposition": null
+      }
+   },
+   "work.v.09": {
+      "synset_id": "work.v.09",
+      "pos": "v",
+      "definition": {
+         "definition_text": "proceed towards a goal or along a path or through an activity",
+         "decomposition": null
+      }
+   },
+   "work.v.10": {
+      "synset_id": "work.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move in an agitated manner",
+         "decomposition": null
+      }
+   },
+   "bring.v.03": {
+      "synset_id": "bring.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to happen or to occur as a consequence",
+         "decomposition": null
+      }
+   },
+   "work.v.12": {
+      "synset_id": "work.v.12",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to work",
+         "decomposition": null
+      }
+   },
+   "cultivate.v.02": {
+      "synset_id": "cultivate.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "prepare for crops",
+         "decomposition": null
+      }
+   },
+   "work.v.14": {
+      "synset_id": "work.v.14",
+      "pos": "v",
+      "definition": {
+         "definition_text": "behave in a certain way when handled",
+         "decomposition": null
+      }
+   },
+   "influence.v.01": {
+      "synset_id": "influence.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have and exert influence or effect",
+         "decomposition": null
+      }
+   },
+   "work.v.16": {
+      "synset_id": "work.v.16",
+      "pos": "v",
+      "definition": {
+         "definition_text": "operate in or through",
+         "decomposition": null
+      }
+   },
+   "work.v.17": {
+      "synset_id": "work.v.17",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to operate or function",
+         "decomposition": null
+      }
+   },
+   "work.v.18": {
+      "synset_id": "work.v.18",
+      "pos": "v",
+      "definition": {
+         "definition_text": "provoke or excite",
+         "decomposition": null
+      }
+   },
+   "work.v.19": {
+      "synset_id": "work.v.19",
+      "pos": "v",
+      "definition": {
+         "definition_text": "gratify and charm, usually in order to influence",
+         "decomposition": null
+      }
+   },
+   "shape.v.02": {
+      "synset_id": "shape.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "make something, usually for a specific function",
+         "decomposition": null
+      }
+   },
+   "work.v.21": {
+      "synset_id": "work.v.21",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move into or onto",
+         "decomposition": null
+      }
+   },
+   "knead.v.01": {
+      "synset_id": "knead.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "make uniform",
+         "decomposition": null
+      }
+   },
+   "exploit.v.01": {
+      "synset_id": "exploit.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "use or manipulate to one's advantage",
+         "decomposition": null
+      }
+   },
+   "solve.v.01": {
+      "synset_id": "solve.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "find the solution to (a problem or question) or understand the meaning of",
+         "decomposition": null
+      }
+   },
+   "ferment.v.03": {
+      "synset_id": "ferment.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to undergo fermentation",
+         "decomposition": null
+      }
+   },
+   "sour.v.01": {
+      "synset_id": "sour.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "go sour or spoil",
+         "decomposition": null
+      }
+   },
+   "work.v.27": {
+      "synset_id": "work.v.27",
+      "pos": "v",
+      "definition": {
+         "definition_text": "arrive at a certain condition through repeated motion",
+         "decomposition": null
+      }
+   },
+   "out.n.01": {
+      "synset_id": "out.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(baseball) a failure by a batter or runner to reach a base safely in baseball",
+         "decomposition": null
+      }
+   },
+   "come_out_of_the_closet.v.01": {
+      "synset_id": "come_out_of_the_closet.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to state openly and publicly one's homosexuality",
+         "decomposition": null
+      }
+   },
+   "out.v.02": {
+      "synset_id": "out.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "reveal (something) about somebody's identity or lifestyle",
+         "decomposition": null
+      }
+   },
+   "out.v.03": {
+      "synset_id": "out.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be made known; be disclosed or revealed",
+         "decomposition": null
+      }
+   },
+   "out.a.01": {
+      "synset_id": "out.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "not allowed to continue to bat or run",
+         "decomposition": null
+      }
+   },
+   "extinct.s.01": {
+      "synset_id": "extinct.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "being out or having grown cold",
+         "decomposition": null
+      }
+   },
+   "out.s.02": {
+      "synset_id": "out.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "not worth considering as a possibility",
+         "decomposition": null
+      }
+   },
+   "out.s.03": {
+      "synset_id": "out.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "out of power; especially having been unsuccessful in an election",
+         "decomposition": null
+      }
+   },
+   "forbidden.s.01": {
+      "synset_id": "forbidden.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "excluded from use or mention",
+         "decomposition": null
+      }
+   },
+   "out.s.05": {
+      "synset_id": "out.s.05",
+      "pos": "s",
+      "definition": {
+         "definition_text": "directed outward or serving to direct something outward",
+         "decomposition": null
+      }
+   },
+   "out.s.06": {
+      "synset_id": "out.s.06",
+      "pos": "s",
+      "definition": {
+         "definition_text": "no longer fashionable",
+         "decomposition": null
+      }
+   },
+   "out.s.07": {
+      "synset_id": "out.s.07",
+      "pos": "s",
+      "definition": {
+         "definition_text": "outside or external",
+         "decomposition": null
+      }
+   },
+   "out.s.08": {
+      "synset_id": "out.s.08",
+      "pos": "s",
+      "definition": {
+         "definition_text": "outer or outlying",
+         "decomposition": null
+      }
+   },
+   "knocked_out.s.01": {
+      "synset_id": "knocked_out.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "knocked unconscious by a heavy blow",
+         "decomposition": null
+      }
+   },
+   "out.r.01": {
+      "synset_id": "out.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "away from home",
+         "decomposition": null
+      }
+   },
+   "out.r.02": {
+      "synset_id": "out.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "moving or appearing to move away from a place, especially one that is enclosed or hidden",
+         "decomposition": null
+      }
+   },
+   "away.r.02": {
+      "synset_id": "away.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "from one's possession",
+         "decomposition": null
+      }
+   },
+   "powerful.a.01": {
+      "synset_id": "powerful.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "having great power or force or potency or effect",
+         "decomposition": null
+      }
+   },
+   "knock-down.s.01": {
+      "synset_id": "knock-down.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "strong enough to knock down or overwhelm",
+         "decomposition": null
+      }
+   },
+   "potent.s.01": {
+      "synset_id": "potent.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "having great influence",
+         "decomposition": null
+      }
+   },
+   "brawny.s.01": {
+      "synset_id": "brawny.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "(of a person) possessing physical strength and weight; rugged and powerful",
+         "decomposition": null
+      }
+   },
+   "herculean.s.01": {
+      "synset_id": "herculean.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "displaying superhuman strength or power",
+         "decomposition": null
+      }
+   },
+   "mighty.r.01": {
+      "synset_id": "mighty.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "(Southern regional intensive) very; to a great degree",
+         "decomposition": null
+      }
+   },
+   "consequence.n.01": {
+      "synset_id": "consequence.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a phenomenon that follows and is caused by some previous phenomenon",
+         "decomposition": null
+      }
+   },
+   "impression.n.02": {
+      "synset_id": "impression.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an outward appearance",
+         "decomposition": null
+      }
+   },
+   "effect.n.03": {
+      "synset_id": "effect.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an impression (especially one that is artificial or contrived)",
+         "decomposition": null
+      }
+   },
+   "effect.n.04": {
+      "synset_id": "effect.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the central meaning or theme of a speech or literary work",
+         "decomposition": null
+      }
+   },
+   "effect.n.06": {
+      "synset_id": "effect.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a symptom caused by an illness or a drug",
+         "decomposition": null
+      }
+   },
+   "effect.v.01": {
+      "synset_id": "effect.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "produce",
+         "decomposition": null
+      }
+   },
+   "effect.v.02": {
+      "synset_id": "effect.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "act so as to bring into existence",
+         "decomposition": null
+      }
+   },
+   "influence.n.01": {
+      "synset_id": "influence.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a power to affect persons or events especially power based on prestige etc",
+         "decomposition": null
+      }
+   },
+   "influence.n.02": {
+      "synset_id": "influence.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "causing something without any direct or apparent effort",
+         "decomposition": null
+      }
+   },
+   "influence.n.03": {
+      "synset_id": "influence.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a cognitive factor that tends to have an effect on what you do",
+         "decomposition": null
+      }
+   },
+   "influence.n.04": {
+      "synset_id": "influence.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the effect of one thing (or person) on another",
+         "decomposition": null
+      }
+   },
+   "influence.n.05": {
+      "synset_id": "influence.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "one having power to influence another",
+         "decomposition": null
+      }
+   },
+   "determine.v.02": {
+      "synset_id": "determine.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "shape or influence; give direction to",
+         "decomposition": null
+      }
+   },
+   "charm.v.04": {
+      "synset_id": "charm.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "induce into action by using one's charm",
+         "decomposition": null
+      }
+   },
+   "consequence.n.02": {
+      "synset_id": "consequence.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the outcome of an event especially as relative to an individual",
+         "decomposition": null
+      }
+   },
+   "consequence.n.03": {
+      "synset_id": "consequence.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "having important effects or influence",
+         "decomposition": null
+      }
+   },
+   "phenomenon.n.01": {
+      "synset_id": "phenomenon.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "any state or process known through the senses rather than by intuition or reasoning",
+         "decomposition": null
+      }
+   },
+   "phenomenon.n.02": {
+      "synset_id": "phenomenon.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a remarkable development",
+         "decomposition": null
+      }
+   },
+   "follow.v.01": {
+      "synset_id": "follow.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to travel behind, go after, come after",
+         "decomposition": null
+      }
+   },
+   "postdate.v.01": {
+      "synset_id": "postdate.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be later in time",
+         "decomposition": null
+      }
+   },
+   "follow.v.03": {
+      "synset_id": "follow.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come as a logical consequence; follow logically",
+         "decomposition": null
+      }
+   },
+   "follow.v.04": {
+      "synset_id": "follow.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "travel along a certain course",
+         "decomposition": null
+      }
+   },
+   "comply.v.01": {
+      "synset_id": "comply.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "act in accordance with someone's rules, commands, or wishes",
+         "decomposition": null
+      }
+   },
+   "follow.v.06": {
+      "synset_id": "follow.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come after in time, as a result",
+         "decomposition": null
+      }
+   },
+   "follow.v.07": {
+      "synset_id": "follow.v.07",
+      "pos": "v",
+      "definition": {
+         "definition_text": "behave in accordance or in agreement with",
+         "decomposition": null
+      }
+   },
+   "follow.v.08": {
+      "synset_id": "follow.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be next",
+         "decomposition": null
+      }
+   },
+   "adopt.v.01": {
+      "synset_id": "adopt.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "choose and follow; as of theories, ideas, policies, strategies or plans",
+         "decomposition": null
+      }
+   },
+   "follow.v.10": {
+      "synset_id": "follow.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to bring something about at a later time than",
+         "decomposition": null
+      }
+   },
+   "take_after.v.02": {
+      "synset_id": "take_after.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "imitate in behavior; take as a model",
+         "decomposition": null
+      }
+   },
+   "trace.v.01": {
+      "synset_id": "trace.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "follow, discover, or ascertain the course of development of something",
+         "decomposition": null
+      }
+   },
+   "watch.v.02": {
+      "synset_id": "watch.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "follow with the eyes or the mind",
+         "decomposition": null
+      }
+   },
+   "succeed.v.02": {
+      "synset_id": "succeed.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be the successor (of)",
+         "decomposition": null
+      }
+   },
+   "play_along.v.02": {
+      "synset_id": "play_along.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform an accompaniment to",
+         "decomposition": null
+      }
+   },
+   "keep_up.v.04": {
+      "synset_id": "keep_up.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "keep informed",
+         "decomposition": null
+      }
+   },
+   "come.v.05": {
+      "synset_id": "come.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to be the product or result",
+         "decomposition": null
+      }
+   },
+   "follow.v.18": {
+      "synset_id": "follow.v.18",
+      "pos": "v",
+      "definition": {
+         "definition_text": "accept and follow the leadership or command or guidance of",
+         "decomposition": null
+      }
+   },
+   "follow.v.19": {
+      "synset_id": "follow.v.19",
+      "pos": "v",
+      "definition": {
+         "definition_text": "adhere to or practice",
+         "decomposition": null
+      }
+   },
+   "be.v.08": {
+      "synset_id": "be.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "work in a specific place, with a specific subject, or in a specific function",
+         "decomposition": null
+      }
+   },
+   "surveil.v.01": {
+      "synset_id": "surveil.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "keep under surveillance",
+         "decomposition": null
+      }
+   },
+   "pursue.v.02": {
+      "synset_id": "pursue.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "follow in or as if in pursuit",
+         "decomposition": null
+      }
+   },
+   "follow.v.23": {
+      "synset_id": "follow.v.23",
+      "pos": "v",
+      "definition": {
+         "definition_text": "grasp the meaning",
+         "decomposition": null
+      }
+   },
+   "stick_to.v.02": {
+      "synset_id": "stick_to.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "keep to",
+         "decomposition": null
+      }
+   },
+   "cause.v.01": {
+      "synset_id": "cause.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give rise to; cause to happen or occur, not always intentionally",
+         "decomposition": null
+      }
+   },
+   "induce.v.02": {
+      "synset_id": "induce.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to do; cause to act in a specified manner",
+         "decomposition": null
+      }
+   },
+   "some.a.01": {
+      "synset_id": "some.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity",
+         "decomposition": null
+      }
+   },
+   "some.s.01": {
+      "synset_id": "some.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "relatively much but unspecified in amount or extent",
+         "decomposition": null
+      }
+   },
+   "some.s.02": {
+      "synset_id": "some.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "relatively many but unspecified in number",
+         "decomposition": null
+      }
+   },
+   "some.s.03": {
+      "synset_id": "some.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "remarkable",
+         "decomposition": null
+      }
+   },
+   "approximately.r.01": {
+      "synset_id": "approximately.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "(of quantities) imprecise but fairly close to correct",
+         "decomposition": null
+      }
+   },
+   "previous.s.01": {
+      "synset_id": "previous.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "just preceding something else in time or order",
+         "decomposition": null
+      }
+   },
+   "former.s.02": {
+      "synset_id": "former.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "(used especially of persons) of the immediate past",
+         "decomposition": null
+      }
+   },
+   "previous.s.03": {
+      "synset_id": "previous.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "too soon or too hasty",
+         "decomposition": null
+      }
+   },
+   "any.s.01": {
+      "synset_id": "any.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "one or some or every or all without specification",
+         "decomposition": null
+      }
+   },
+   "any.r.01": {
+      "synset_id": "any.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "to any degree or extent",
+         "decomposition": null
+      }
+   },
+   "state.n.01": {
+      "synset_id": "state.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the territory occupied by one of the constituent administrative districts of a nation",
+         "decomposition": null
+      }
+   },
+   "state.n.02": {
+      "synset_id": "state.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the way something is with respect to its main attributes",
+         "decomposition": null
+      }
+   },
+   "state.n.03": {
+      "synset_id": "state.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the group of people comprising the government of a sovereign state",
+         "decomposition": null
+      }
+   },
+   "state.n.04": {
+      "synset_id": "state.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a politically organized body of people under a single government",
+         "decomposition": null
+      }
+   },
+   "state_of_matter.n.01": {
+      "synset_id": "state_of_matter.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)",
+         "decomposition": null
+      }
+   },
+   "state.n.06": {
+      "synset_id": "state.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a state of depression or agitation",
+         "decomposition": null
+      }
+   },
+   "country.n.02": {
+      "synset_id": "country.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the territory occupied by a nation",
+         "decomposition": null
+      }
+   },
+   "department_of_state.n.01": {
+      "synset_id": "department_of_state.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the federal department in the United States that sets and maintains foreign policies",
+         "decomposition": null
+      }
+   },
+   "state.v.01": {
+      "synset_id": "state.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "express in words",
+         "decomposition": null
+      }
+   },
+   "submit.v.02": {
+      "synset_id": "submit.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "put before",
+         "decomposition": null
+      }
+   },
+   "express.v.04": {
+      "synset_id": "express.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "indicate through a symbol, formula, etc.",
+         "decomposition": null
+      }
+   },
+   "procedure.n.01": {
+      "synset_id": "procedure.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a particular course of action intended to achieve a result",
+         "decomposition": null
+      }
+   },
+   "process.n.02": {
+      "synset_id": "process.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(psychology) the performance of some composite cognitive activity; an operation that affects mental contents",
+         "decomposition": null
+      }
+   },
+   "summons.n.03": {
+      "synset_id": "summons.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+         "decomposition": null
+      }
+   },
+   "process.n.04": {
+      "synset_id": "process.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a mental process that you are not directly aware of",
+         "decomposition": null
+      }
+   },
+   "process.n.05": {
+      "synset_id": "process.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a natural prolongation or projection from a part of an organism either animal or plant",
+         "decomposition": null
+      }
+   },
+   "process.n.06": {
+      "synset_id": "process.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a sustained phenomenon or one marked by gradual changes through a series of states",
+         "decomposition": null
+      }
+   },
+   "process.v.01": {
+      "synset_id": "process.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+         "decomposition": null
+      }
+   },
+   "process.v.02": {
+      "synset_id": "process.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "deal with in a routine way",
+         "decomposition": null
+      }
+   },
+   "process.v.03": {
+      "synset_id": "process.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information",
+         "decomposition": null
+      }
+   },
+   "march.v.01": {
+      "synset_id": "march.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "march in a procession",
+         "decomposition": null
+      }
+   },
+   "serve.v.11": {
+      "synset_id": "serve.v.11",
+      "pos": "v",
+      "definition": {
+         "definition_text": "deliver a warrant or summons to someone",
+         "decomposition": null
+      }
+   },
+   "know.v.01": {
+      "synset_id": "know.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about",
+         "decomposition": null
+      }
+   },
+   "know.v.02": {
+      "synset_id": "know.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "know how to do or perform something",
+         "decomposition": null
+      }
+   },
+   "know.v.03": {
+      "synset_id": "know.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt",
+         "decomposition": null
+      }
+   },
+   "know.v.04": {
+      "synset_id": "know.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be familiar or acquainted with a person or an object",
+         "decomposition": null
+      }
+   },
+   "know.v.05": {
+      "synset_id": "know.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have firsthand knowledge of states, situations, emotions, or sensations",
+         "decomposition": null
+      }
+   },
+   "acknowledge.v.06": {
+      "synset_id": "acknowledge.v.06",
+      "pos": "v",
+      "definition": {
+         "definition_text": "accept (someone) to be what is claimed or accept his power and authority",
+         "decomposition": null
+      }
+   },
+   "know.v.07": {
+      "synset_id": "know.v.07",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have fixed in the mind",
+         "decomposition": null
+      }
+   },
+   "sleep_together.v.01": {
+      "synset_id": "sleep_together.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have sexual intercourse with",
+         "decomposition": null
+      }
+   },
+   "know.v.09": {
+      "synset_id": "know.v.09",
+      "pos": "v",
+      "definition": {
+         "definition_text": "know the nature or character of",
+         "decomposition": null
+      }
+   },
+   "know.v.10": {
+      "synset_id": "know.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be able to distinguish, recognize as being different",
+         "decomposition": null
+      }
+   },
+   "know.v.11": {
+      "synset_id": "know.v.11",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perceive as familiar",
+         "decomposition": null
+      }
+   },
+   "known.a.01": {
+      "synset_id": "known.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "apprehended with certainty",
+         "decomposition": null
+      }
+   },
+   "done.s.01": {
+      "synset_id": "done.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "having finished or arrived at completion",
+         "decomposition": null
+      }
+   },
+   "through.s.02": {
+      "synset_id": "through.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "(of a route or journey etc.) continuing without requiring stops or changes",
+         "decomposition": null
+      }
+   },
+   "through.r.01": {
+      "synset_id": "through.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "from beginning to end",
+         "decomposition": null
+      }
+   },
+   "through.r.02": {
+      "synset_id": "through.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "over the whole distance",
+         "decomposition": null
+      }
+   },
+   "through.r.03": {
+      "synset_id": "through.r.03",
+      "pos": "r",
+      "definition": {
+         "definition_text": "to completion",
+         "decomposition": null
+      }
+   },
+   "through.r.04": {
+      "synset_id": "through.r.04",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in diameter",
+         "decomposition": null
+      }
+   },
+   "through.r.05": {
+      "synset_id": "through.r.05",
+      "pos": "r",
+      "definition": {
+         "definition_text": "throughout the entire extent",
+         "decomposition": null
+      }
+   },
+   "sense.n.01": {
+      "synset_id": "sense.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a general conscious awareness",
+         "decomposition": null
+      }
+   },
+   "sense.n.02": {
+      "synset_id": "sense.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the meaning of a word or expression; the way in which a word or expression or situation can be interpreted",
+         "decomposition": null
+      }
+   },
+   "sense.n.03": {
+      "synset_id": "sense.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the faculty through which the external world is apprehended",
+         "decomposition": null
+      }
+   },
+   "common_sense.n.01": {
+      "synset_id": "common_sense.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "sound practical judgment",
+         "decomposition": null
+      }
+   },
+   "sense.n.05": {
+      "synset_id": "sense.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a natural appreciation or ability",
+         "decomposition": null
+      }
+   },
+   "pot.n.09": {
+      "synset_id": "pot.n.09",
+      "pos": "n",
+      "definition": {
+         "definition_text": "street names for marijuana",
+         "decomposition": null
+      }
+   },
+   "feel.v.03": {
+      "synset_id": "feel.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+         "decomposition": null
+      }
+   },
+   "sense.v.02": {
+      "synset_id": "sense.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "detect some circumstance or entity automatically",
+         "decomposition": null
+      }
+   },
+   "smell.v.05": {
+      "synset_id": "smell.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "become aware of not through the senses but instinctively",
+         "decomposition": null
+      }
+   },
+   "sense.v.04": {
+      "synset_id": "sense.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "comprehend",
+         "decomposition": null
+      }
+   },
+   "rather.r.01": {
+      "synset_id": "rather.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "on the contrary",
+         "decomposition": null
+      }
+   },
+   "rather.r.02": {
+      "synset_id": "rather.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "to some (great or small) extent",
+         "decomposition": null
+      }
+   },
+   "preferably.r.01": {
+      "synset_id": "preferably.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "more readily or willingly",
+         "decomposition": null
+      }
+   },
+   "quite.r.01": {
+      "synset_id": "quite.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "to a degree (not used with a negative)",
+         "decomposition": null
+      }
+   },
+   "intuition.n.01": {
+      "synset_id": "intuition.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "instinctive knowing (without the use of rational processes)",
+         "decomposition": null
+      }
+   },
+   "intuition.n.02": {
+      "synset_id": "intuition.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an impression that something might be the case",
+         "decomposition": null
+      }
+   },
+   "reasoning.n.01": {
+      "synset_id": "reasoning.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "thinking that is coherent and logical",
+         "decomposition": null
+      }
+   },
+   "reason.v.01": {
+      "synset_id": "reason.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "decide by reasoning; draw or come to a conclusion",
+         "decomposition": null
+      }
+   },
+   "argue.v.01": {
+      "synset_id": "argue.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "present reasons and arguments",
+         "decomposition": null
+      }
+   },
+   "reason.v.03": {
+      "synset_id": "reason.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "think logically",
+         "decomposition": null
+      }
+   },
+   "intelligent.s.03": {
+      "synset_id": "intelligent.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "endowed with the capacity to reason",
+         "decomposition": null
+      }
+   },
+   "cause.n.01": {
+      "synset_id": "cause.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "events that provide the generative force that is the origin of something",
+         "decomposition": null
+      }
+   },
+   "cause.n.02": {
+      "synset_id": "cause.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a justification for something existing or happening",
+         "decomposition": null
+      }
+   },
+   "campaign.n.02": {
+      "synset_id": "campaign.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a series of actions advancing a principle or tending toward a particular end",
+         "decomposition": null
+      }
+   },
+   "causal_agent.n.01": {
+      "synset_id": "causal_agent.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "any entity that produces an effect or is responsible for events or results",
+         "decomposition": null
+      }
+   },
+   "lawsuit.n.01": {
+      "synset_id": "lawsuit.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+         "decomposition": null
+      }
+   },
+   "give.n.01": {
+      "synset_id": "give.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the elasticity of something that can be stretched and returns to its original length",
+         "decomposition": null
+      }
+   },
+   "give.v.01": {
+      "synset_id": "give.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to have, in the abstract sense or physical sense",
+         "decomposition": null
+      }
+   },
+   "yield.v.01": {
+      "synset_id": "yield.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be the cause or source of",
+         "decomposition": null
+      }
+   },
+   "give.v.03": {
+      "synset_id": "give.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "transfer possession of something concrete or abstract to somebody",
+         "decomposition": null
+      }
+   },
+   "give.v.04": {
+      "synset_id": "give.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "convey or reveal information",
+         "decomposition": null
+      }
+   },
+   "give.v.05": {
+      "synset_id": "give.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "convey, as of a compliment, regards, attention, etc.; bestow",
+         "decomposition": null
+      }
+   },
+   "hold.v.03": {
+      "synset_id": "hold.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "organize or be responsible for",
+         "decomposition": null
+      }
+   },
+   "give.v.07": {
+      "synset_id": "give.v.07",
+      "pos": "v",
+      "definition": {
+         "definition_text": "convey or communicate; of a smile, a look, a physical gesture",
+         "decomposition": null
+      }
+   },
+   "give.v.08": {
+      "synset_id": "give.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give as a present; make a gift of",
+         "decomposition": null
+      }
+   },
+   "give.v.09": {
+      "synset_id": "give.v.09",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to happen or be responsible for",
+         "decomposition": null
+      }
+   },
+   "give.v.10": {
+      "synset_id": "give.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "dedicate",
+         "decomposition": null
+      }
+   },
+   "render.v.04": {
+      "synset_id": "render.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give or supply",
+         "decomposition": null
+      }
+   },
+   "impart.v.01": {
+      "synset_id": "impart.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "transmit (knowledge or skills)",
+         "decomposition": null
+      }
+   },
+   "establish.v.05": {
+      "synset_id": "establish.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "bring about",
+         "decomposition": null
+      }
+   },
+   "give.v.14": {
+      "synset_id": "give.v.14",
+      "pos": "v",
+      "definition": {
+         "definition_text": "leave with; give temporarily",
+         "decomposition": null
+      }
+   },
+   "give.v.15": {
+      "synset_id": "give.v.15",
+      "pos": "v",
+      "definition": {
+         "definition_text": "emit or utter",
+         "decomposition": null
+      }
+   },
+   "sacrifice.v.01": {
+      "synset_id": "sacrifice.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "endure the loss of",
+         "decomposition": null
+      }
+   },
+   "pass.v.05": {
+      "synset_id": "pass.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "place into the hands or custody of",
+         "decomposition": null
+      }
+   },
+   "give.v.18": {
+      "synset_id": "give.v.18",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give entirely to a specific person, activity, or cause",
+         "decomposition": null
+      }
+   },
+   "give.v.19": {
+      "synset_id": "give.v.19",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give (as medicine)",
+         "decomposition": null
+      }
+   },
+   "give.v.20": {
+      "synset_id": "give.v.20",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give or convey physically",
+         "decomposition": null
+      }
+   },
+   "give.v.21": {
+      "synset_id": "give.v.21",
+      "pos": "v",
+      "definition": {
+         "definition_text": "bestow",
+         "decomposition": null
+      }
+   },
+   "grant.v.05": {
+      "synset_id": "grant.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "bestow, especially officially",
+         "decomposition": null
+      }
+   },
+   "move_over.v.01": {
+      "synset_id": "move_over.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move in order to make room for someone for something",
+         "decomposition": null
+      }
+   },
+   "feed.v.02": {
+      "synset_id": "feed.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give food to",
+         "decomposition": null
+      }
+   },
+   "contribute.v.02": {
+      "synset_id": "contribute.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "contribute to some cause",
+         "decomposition": null
+      }
+   },
+   "collapse.v.01": {
+      "synset_id": "collapse.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "break down, literally or metaphorically",
+         "decomposition": null
+      }
+   },
+   "give.v.27": {
+      "synset_id": "give.v.27",
+      "pos": "v",
+      "definition": {
+         "definition_text": "estimate the duration or outcome of something",
+         "decomposition": null
+      }
+   },
+   "give.v.28": {
+      "synset_id": "give.v.28",
+      "pos": "v",
+      "definition": {
+         "definition_text": "execute and deliver",
+         "decomposition": null
+      }
+   },
+   "give.v.29": {
+      "synset_id": "give.v.29",
+      "pos": "v",
+      "definition": {
+         "definition_text": "deliver in exchange or recompense",
+         "decomposition": null
+      }
+   },
+   "afford.v.04": {
+      "synset_id": "afford.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "afford access to",
+         "decomposition": null
+      }
+   },
+   "give.v.31": {
+      "synset_id": "give.v.31",
+      "pos": "v",
+      "definition": {
+         "definition_text": "present to view",
+         "decomposition": null
+      }
+   },
+   "give.v.32": {
+      "synset_id": "give.v.32",
+      "pos": "v",
+      "definition": {
+         "definition_text": "perform for an audience",
+         "decomposition": null
+      }
+   },
+   "give.v.33": {
+      "synset_id": "give.v.33",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be flexible under stress of physical force",
+         "decomposition": null
+      }
+   },
+   "give.v.34": {
+      "synset_id": "give.v.34",
+      "pos": "v",
+      "definition": {
+         "definition_text": "propose",
+         "decomposition": null
+      }
+   },
+   "give.v.35": {
+      "synset_id": "give.v.35",
+      "pos": "v",
+      "definition": {
+         "definition_text": "accord by verdict",
+         "decomposition": null
+      }
+   },
+   "give.v.36": {
+      "synset_id": "give.v.36",
+      "pos": "v",
+      "definition": {
+         "definition_text": "manifest or show",
+         "decomposition": null
+      }
+   },
+   "give.v.37": {
+      "synset_id": "give.v.37",
+      "pos": "v",
+      "definition": {
+         "definition_text": "offer in good faith",
+         "decomposition": null
+      }
+   },
+   "give.v.38": {
+      "synset_id": "give.v.38",
+      "pos": "v",
+      "definition": {
+         "definition_text": "submit for consideration, judgment, or use",
+         "decomposition": null
+      }
+   },
+   "give.v.39": {
+      "synset_id": "give.v.39",
+      "pos": "v",
+      "definition": {
+         "definition_text": "guide or direct, as by behavior of persuasion",
+         "decomposition": null
+      }
+   },
+   "give.v.40": {
+      "synset_id": "give.v.40",
+      "pos": "v",
+      "definition": {
+         "definition_text": "allow to have or take",
+         "decomposition": null
+      }
+   },
+   "give.v.41": {
+      "synset_id": "give.v.41",
+      "pos": "v",
+      "definition": {
+         "definition_text": "inflict as a punishment",
+         "decomposition": null
+      }
+   },
+   "give.v.42": {
+      "synset_id": "give.v.42",
+      "pos": "v",
+      "definition": {
+         "definition_text": "occur",
+         "decomposition": null
+      }
+   },
+   "give.v.43": {
+      "synset_id": "give.v.43",
+      "pos": "v",
+      "definition": {
+         "definition_text": "consent to engage in sexual intercourse with a man",
+         "decomposition": null
+      }
+   },
+   "give.v.44": {
+      "synset_id": "give.v.44",
+      "pos": "v",
+      "definition": {
+         "definition_text": "proffer (a body part)",
+         "decomposition": null
+      }
+   },
+   "rise.n.01": {
+      "synset_id": "rise.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a growth in strength or number or importance",
+         "decomposition": null
+      }
+   },
+   "rise.n.02": {
+      "synset_id": "rise.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the act of changing location in an upward direction",
+         "decomposition": null
+      }
+   },
+   "ascent.n.01": {
+      "synset_id": "ascent.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an upward slope or grade (as in a road)",
+         "decomposition": null
+      }
+   },
+   "rise.n.04": {
+      "synset_id": "rise.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a movement upward",
+         "decomposition": null
+      }
+   },
+   "raise.n.01": {
+      "synset_id": "raise.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the amount a salary is increased",
+         "decomposition": null
+      }
+   },
+   "upgrade.n.04": {
+      "synset_id": "upgrade.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the property possessed by a slope or surface that rises",
+         "decomposition": null
+      }
+   },
+   "lift.n.04": {
+      "synset_id": "lift.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a wave that lifts the surface of the water or ground",
+         "decomposition": null
+      }
+   },
+   "emanation.n.03": {
+      "synset_id": "emanation.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(theology) the origination of the Holy Spirit at Pentecost",
+         "decomposition": null
+      }
+   },
+   "rise.n.09": {
+      "synset_id": "rise.n.09",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an increase in cost",
+         "decomposition": null
+      }
+   },
+   "advance.n.06": {
+      "synset_id": "advance.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "increase in price or value",
+         "decomposition": null
+      }
+   },
+   "rise.v.01": {
+      "synset_id": "rise.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move upward",
+         "decomposition": null
+      }
+   },
+   "rise.v.02": {
+      "synset_id": "rise.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "increase in value or to a higher point",
+         "decomposition": null
+      }
+   },
+   "arise.v.03": {
+      "synset_id": "arise.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "rise to one's feet",
+         "decomposition": null
+      }
+   },
+   "rise.v.04": {
+      "synset_id": "rise.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "rise up",
+         "decomposition": null
+      }
+   },
+   "surface.v.01": {
+      "synset_id": "surface.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come to the surface",
+         "decomposition": null
+      }
+   },
+   "originate.v.01": {
+      "synset_id": "originate.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come into existence; take on form or shape",
+         "decomposition": null
+      }
+   },
+   "ascend.v.08": {
+      "synset_id": "ascend.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "move to a better position in life or to a better job; \"She ascended from a life of poverty to one of great",
+         "decomposition": null
+      }
+   },
+   "wax.v.02": {
+      "synset_id": "wax.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "go up or advance",
+         "decomposition": null
+      }
+   },
+   "heighten.v.01": {
+      "synset_id": "heighten.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "become more extreme",
+         "decomposition": null
+      }
+   },
+   "get_up.v.02": {
+      "synset_id": "get_up.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "get up and out of bed",
+         "decomposition": null
+      }
+   },
+   "rise.v.11": {
+      "synset_id": "rise.v.11",
+      "pos": "v",
+      "definition": {
+         "definition_text": "rise in rank or status",
+         "decomposition": null
+      }
+   },
+   "rise.v.12": {
+      "synset_id": "rise.v.12",
+      "pos": "v",
+      "definition": {
+         "definition_text": "become heartened or elated",
+         "decomposition": null
+      }
+   },
+   "rise.v.13": {
+      "synset_id": "rise.v.13",
+      "pos": "v",
+      "definition": {
+         "definition_text": "exert oneself to meet a challenge",
+         "decomposition": null
+      }
+   },
+   "rebel.v.01": {
+      "synset_id": "rebel.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "take part in a rebellion; renounce a former allegiance",
+         "decomposition": null
+      }
+   },
+   "rise.v.15": {
+      "synset_id": "rise.v.15",
+      "pos": "v",
+      "definition": {
+         "definition_text": "increase in volume",
+         "decomposition": null
+      }
+   },
+   "rise.v.16": {
+      "synset_id": "rise.v.16",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come up, of celestial bodies",
+         "decomposition": null
+      }
+   },
+   "resurrect.v.03": {
+      "synset_id": "resurrect.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "return from the dead",
+         "decomposition": null
+      }
+   },
+   "happen.v.01": {
+      "synset_id": "happen.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come to pass",
+         "decomposition": null
+      }
+   },
+   "happen.v.02": {
+      "synset_id": "happen.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "happen, occur, or be the case in the course of events or by chance; ;  (Santayana)",
+         "decomposition": null
+      }
+   },
+   "happen.v.03": {
+      "synset_id": "happen.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "chance to be or do something, without intention or causation",
+         "decomposition": null
+      }
+   },
+   "happen.v.04": {
+      "synset_id": "happen.v.04",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come into being; become reality",
+         "decomposition": null
+      }
+   },
+   "find.v.01": {
+      "synset_id": "find.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come upon, as if by accident; meet with",
+         "decomposition": null
+      }
+   },
+   "occur.v.02": {
+      "synset_id": "occur.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come to one's mind; suggest itself",
+         "decomposition": null
+      }
+   },
+   "occur.v.03": {
+      "synset_id": "occur.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to be found to exist",
+         "decomposition": null
+      }
+   },
+   "not.r.01": {
+      "synset_id": "not.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "negation of a word or group of words",
+         "decomposition": null
+      }
+   },
+   "always.r.01": {
+      "synset_id": "always.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "at all times; all the time and on every occasion",
+         "decomposition": null
+      }
+   },
+   "constantly.r.01": {
+      "synset_id": "constantly.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "without variation or change, in every case",
+         "decomposition": null
+      }
+   },
+   "constantly.r.02": {
+      "synset_id": "constantly.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "without interruption",
+         "decomposition": null
+      }
+   },
+   "always.r.04": {
+      "synset_id": "always.r.04",
+      "pos": "r",
+      "definition": {
+         "definition_text": "at any time or in any event",
+         "decomposition": null
+      }
+   },
+   "always.r.05": {
+      "synset_id": "always.r.05",
+      "pos": "r",
+      "definition": {
+         "definition_text": "forever; throughout all time",
+         "decomposition": null
+      }
+   },
+   "intentionally.r.01": {
+      "synset_id": "intentionally.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "with intention; in an intentional manner",
+         "decomposition": null
+      }
    }
 }

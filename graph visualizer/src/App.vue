@@ -64,13 +64,14 @@ onMounted(() => {
 
   // Add a line for each link, and a circle for each node.
   const link = svg.append("g")
-      .attr("stroke", "#BBB")
-      .attr("stroke-opacity", 1)
-    .selectAll("line")
-    .data(cacheLinks)
-    .join("line")
-      .attr("marker-end", "url(#arrowhead)")
-      .attr("stroke-width", 2);
+  .attr("stroke", "#BBB")
+  .attr("stroke-opacity", 1)
+  .selectAll("path")
+  .data(cacheLinks)
+  .join("path")
+    .attr("fill", "none")
+    .attr("stroke-width", 2)
+    .attr("marker-end", "url(#arrowhead)");
 
   const node = svg.append("g")
       .attr("stroke", "#fff")
@@ -90,13 +91,29 @@ onMounted(() => {
         .on("drag", dragged)
         .on("end", dragended));
   
+  // helper to ensure source/target are node objects (forceLink will set them)
+  function nodeObj(n: any) { return (typeof n === "object" ? n : cacheNodes.find(x => x.id === n)); }
+
   //Set the position attributes of links and nodes each time the simulation ticks.
   simulation.on("tick", () => {
-    link
-        .attr("x1", link => link.source.x)
-        .attr("y1", link => link.source.y)
-        .attr("x2", link => link.target.x)
-        .attr("y2", link => link.target.y);
+    link.attr("d", (d: any) => {
+    const s = nodeObj(d.source);
+    const t = nodeObj(d.target);
+    if (!s || !t) return "";
+
+    // self-loop
+    if (s.id === t.id) {
+      const x = s.x;
+      const y = s.y;
+      const r = 25; // loop radius
+      // cubic Bezier loop to the right of the node
+      return `M ${x} ${y}
+              C ${x + r} ${y - r} ${x + r} ${y + r} ${x} ${y}`;
+    }
+
+    // normal straight link
+    return `M ${s.x} ${s.y} L ${t.x} ${t.y}`;
+  });
 
         // cx and cy are the center coords of the circle svg
     node

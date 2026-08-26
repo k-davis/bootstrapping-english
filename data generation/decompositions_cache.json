@@ -162,7 +162,11 @@
       "pos": "n",
       "definition": {
          "definition_text": "a powerful effect or influence",
-         "decomposition": null
+         "decomposition": {
+            "1": "powerful.a.01",
+            "2": "consequence.n.01",
+            "4": "influence.n.01"
+         }
       }
    },
    "momentum.n.01": {
@@ -234,6 +238,216 @@
       "pos": "n",
       "definition": {
          "definition_text": "an instance of change; the rate or magnitude of change",
+         "decomposition": null
+      }
+   },
+   "phenomenon.n.01": {
+      "synset_id": "phenomenon.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "any state or process known through the senses rather than by intuition or reasoning",
+         "decomposition": {
+            "0": "any.s.01",
+            "1": "state.n.02",
+            "3": "procedure.n.01",
+            "4": "know.v.01",
+            "5": "through.r.03",
+            "7": "sense.n.03",
+            "8": "preferably.r.01",
+            "10": "by.r.01",
+            "11": "intuition.n.01",
+            "13": "reasoning.n.01"
+         }
+      }
+   },
+   "postdate.v.01": {
+      "synset_id": "postdate.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be later in time",
+         "decomposition": null
+      }
+   },
+   "cause.v.01": {
+      "synset_id": "cause.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "give rise to; cause to happen or occur, not always intentionally",
+         "decomposition": {
+            "0": "yield.v.01",
+            "1": "originate.v.01",
+            "3": "cause.v.01",
+            "5": "happen.v.01",
+            "7": "happen.v.01",
+            "8": "not.r.01",
+            "9": "always.r.01",
+            "10": "intentionally.r.01"
+         }
+      }
+   },
+   "approximately.r.01": {
+      "synset_id": "approximately.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "(of quantities) imprecise but fairly close to correct",
+         "decomposition": null
+      }
+   },
+   "consequence.n.01": {
+      "synset_id": "consequence.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a phenomenon that follows and is caused by some previous phenomenon",
+         "decomposition": {
+            "1": "phenomenon.n.01",
+            "3": "postdate.v.01",
+            "7": "cause.v.01",
+            "9": "approximately.r.01",
+            "10": "previous.s.01"
+         }
+      }
+   },
+   "previous.s.01": {
+      "synset_id": "previous.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "just preceding something else in time or order",
+         "decomposition": null
+      }
+   },
+   "any.s.01": {
+      "synset_id": "any.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "one or some or every or all without specification",
+         "decomposition": null
+      }
+   },
+   "state.n.02": {
+      "synset_id": "state.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the way something is with respect to its main attributes",
+         "decomposition": null
+      }
+   },
+   "procedure.n.01": {
+      "synset_id": "procedure.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a particular course of action intended to achieve a result",
+         "decomposition": null
+      }
+   },
+   "know.v.01": {
+      "synset_id": "know.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about",
+         "decomposition": null
+      }
+   },
+   "through.r.03": {
+      "synset_id": "through.r.03",
+      "pos": "r",
+      "definition": {
+         "definition_text": "to completion",
+         "decomposition": null
+      }
+   },
+   "sense.n.03": {
+      "synset_id": "sense.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the faculty through which the external world is apprehended",
+         "decomposition": null
+      }
+   },
+   "preferably.r.01": {
+      "synset_id": "preferably.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "more readily or willingly",
+         "decomposition": null
+      }
+   },
+   "intuition.n.01": {
+      "synset_id": "intuition.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "instinctive knowing (without the use of rational processes)",
+         "decomposition": null
+      }
+   },
+   "reasoning.n.01": {
+      "synset_id": "reasoning.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "thinking that is coherent and logical",
+         "decomposition": null
+      }
+   },
+   "powerful.a.01": {
+      "synset_id": "powerful.a.01",
+      "pos": "a",
+      "definition": {
+         "definition_text": "having great power or force or potency or effect",
+         "decomposition": null
+      }
+   },
+   "influence.n.01": {
+      "synset_id": "influence.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a power to affect persons or events especially power based on prestige etc",
+         "decomposition": null
+      }
+   },
+   "yield.v.01": {
+      "synset_id": "yield.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be the cause or source of",
+         "decomposition": null
+      }
+   },
+   "originate.v.01": {
+      "synset_id": "originate.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come into existence; take on form or shape",
+         "decomposition": null
+      }
+   },
+   "happen.v.01": {
+      "synset_id": "happen.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "come to pass",
+         "decomposition": null
+      }
+   },
+   "not.r.01": {
+      "synset_id": "not.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "negation of a word or group of words",
+         "decomposition": null
+      }
+   },
+   "always.r.01": {
+      "synset_id": "always.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "at all times; all the time and on every occasion",
+         "decomposition": null
+      }
+   },
+   "intentionally.r.01": {
+      "synset_id": "intentionally.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "with intention; in an intentional manner",
          "decomposition": null
       }
    }

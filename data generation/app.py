@@ -12,7 +12,8 @@ def main():
     wn_cache.load_from_file()
     decomposition_cache.load_from_file()
 
-    Synset.cache = wn_cache
+    Synset.wn_cache = wn_cache
+    Synset.cur_decomposition_cache = decomposition_cache
 
     print("=== Data Generation Tool ===")
     print("Input sanitization is dubious.")
@@ -32,13 +33,14 @@ def main():
             synset = get_new_synset_from_user()
             if synset is None:
                 continue
-            
-            fully_decompose_synset_definition(synset)
+
+            decomposition_cache.set(synset)
+            fully_decompose_synset_definition(decomposition_cache, synset)
 
         elif selection == "1":
             undecomposed_synsets = [s for s in decomposition_cache if not s.definition.is_decomposed]
             synset_to_decompose = random.choice(undecomposed_synsets)
-            fully_decompose_synset_definition(synset_to_decompose)
+            fully_decompose_synset_definition(decomposition_cache, synset_to_decompose)
 
         elif selection == "2":
             wn_cache.save_to_file()
@@ -58,7 +60,7 @@ def get_new_synset_from_user() -> Synset | None:
     return synset
 
 
-def fully_decompose_synset_definition(synset: Synset):
+def fully_decompose_synset_definition(decomposition_cache: SynsetCache, synset: Synset):
     """
     Prompts the user to select the meaning of each* word in the definition of the given synset
     """
@@ -70,7 +72,7 @@ def fully_decompose_synset_definition(synset: Synset):
             continue
 
         synset.definition.decomposition[idx_into_full_definition] = definition_synset.synset_id
-        decomposition_cache.set(synset)
+        decomposition_cache.set(definition_synset)
 
     synset.definition.is_decomposed = True
 

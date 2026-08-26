@@ -1,4 +1,5 @@
 from __future__ import annotations
+import copy
 from typing import Any, Dict
 from typing_extensions import Self
 from nltk.corpus import wordnet as wn 
@@ -8,7 +9,8 @@ import src.models.SynsetCache
 class Synset:
     # Some synsets are created, but not selected during the decomposition process. We do not want these.
     #cached_synsets: Dict[str, 'Synset'] = {}
-    cache: src.models.SynsetCache.SynsetCache
+    wn_cache: src.models.SynsetCache.SynsetCache
+    cur_decomposition_cache: src.models.SynsetCache.SynsetCache
     # TODO add get or create via __new__
 
     def __init__(self, synset_id: str, definition: str, pos: str):
@@ -32,13 +34,15 @@ class Synset:
     @classmethod
     def from_wn_synset(cls, synset_id: str):
         # try to read from cache
-        if synset_id in cls.cache:
-            return cls.cache.get(synset_id)
+        if synset_id in cls.cur_decomposition_cache:
+            return cls.cur_decomposition_cache.get(synset_id)
+        elif synset_id in cls.wn_cache:
+            return cls.wn_cache.get(synset_id)
 
         else:
             wn_synset = wn.synset(synset_id)
             new_synset = cls(wn_synset.name(), wn_synset.definition(), wn_synset.pos()) # type: ignore
-            cls.cache.set(new_synset)
+            cls.wn_cache.set(copy.deepcopy(new_synset))
             return new_synset
         
     def to_dict(self) -> Dict[str, Any]:
