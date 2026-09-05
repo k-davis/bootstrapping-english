@@ -1,9 +1,6 @@
-.chart {
-  width: 100%;
-  height: 600px;
-  display: block;
-  margin-top: 1.5rem;
-  border: 1px solid #d1d5db;
-  border-radius: 12px;
-  background: white;
+main {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  ul {
+    margin: 0px
+  }
 }

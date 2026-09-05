@@ -2404,7 +2404,13 @@
       "pos": "n",
       "definition": {
          "definition_text": "the way something is with respect to its main attributes",
-         "decomposition": null
+         "decomposition": {
+            "1": "way.n.04",
+            "5": "respect.n.01",
+            "7": "information_technology.n.01",
+            "8": "chief.s.01",
+            "9": "property.n.04"
+         }
       }
    },
    "state.n.03": {
@@ -3612,6 +3618,462 @@
       "pos": "r",
       "definition": {
          "definition_text": "with intention; in an intentional manner",
+         "decomposition": null
+      }
+   },
+   "bewilder.v.02": {
+      "synset_id": "bewilder.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to be confused emotionally",
+         "decomposition": null
+      }
+   },
+   "confuse.v.02": {
+      "synset_id": "confuse.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be confusing or perplexing to; cause to be unable to think clearly",
+         "decomposition": null
+      }
+   },
+   "beryllium.n.01": {
+      "synset_id": "beryllium.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a light strong brittle grey toxic bivalent metallic element",
+         "decomposition": null
+      }
+   },
+   "be.v.01": {
+      "synset_id": "be.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+         "decomposition": null
+      }
+   },
+   "be.v.02": {
+      "synset_id": "be.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be identical to; be someone or something",
+         "decomposition": null
+      }
+   },
+   "be.v.03": {
+      "synset_id": "be.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "occupy a certain position or area; be somewhere",
+         "decomposition": null
+      }
+   },
+   "exist.v.01": {
+      "synset_id": "exist.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have an existence, be extant",
+         "decomposition": null
+      }
+   },
+   "be.v.05": {
+      "synset_id": "be.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "happen, occur, take place",
+         "decomposition": null
+      }
+   },
+   "equal.v.01": {
+      "synset_id": "equal.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be identical or equivalent to",
+         "decomposition": null
+      }
+   },
+   "constitute.v.01": {
+      "synset_id": "constitute.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "form or compose",
+         "decomposition": null
+      }
+   },
+   "embody.v.02": {
+      "synset_id": "embody.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "represent, as of a character on stage",
+         "decomposition": null
+      }
+   },
+   "be.v.10": {
+      "synset_id": "be.v.10",
+      "pos": "v",
+      "definition": {
+         "definition_text": "spend or use time",
+         "decomposition": null
+      }
+   },
+   "be.v.11": {
+      "synset_id": "be.v.11",
+      "pos": "v",
+      "definition": {
+         "definition_text": "have life, be alive",
+         "decomposition": null
+      }
+   },
+   "be.v.12": {
+      "synset_id": "be.v.12",
+      "pos": "v",
+      "definition": {
+         "definition_text": "to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form",
+         "decomposition": null
+      }
+   },
+   "cost.v.01": {
+      "synset_id": "cost.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "be priced at",
+         "decomposition": null
+      }
+   },
+   "confuse.v.01": {
+      "synset_id": "confuse.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "mistake one thing for another",
+         "decomposition": null
+      }
+   },
+   "confuse.v.03": {
+      "synset_id": "confuse.v.03",
+      "pos": "v",
+      "definition": {
+         "definition_text": "cause to feel embarrassment",
+         "decomposition": null
+      }
+   },
+   "jumble.v.02": {
+      "synset_id": "jumble.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "assemble without order or sense",
+         "decomposition": null
+      }
+   },
+   "confuse.v.05": {
+      "synset_id": "confuse.v.05",
+      "pos": "v",
+      "definition": {
+         "definition_text": "make unclear, indistinct, or blurred",
+         "decomposition": null
+      }
+   },
+   "baffled.s.01": {
+      "synset_id": "baffled.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "perplexed by many conflicting situations or statements; filled with bewilderment",
+         "decomposition": null
+      }
+   },
+   "confused.s.02": {
+      "synset_id": "confused.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "lacking orderly continuity",
+         "decomposition": null
+      }
+   },
+   "confused.s.03": {
+      "synset_id": "confused.s.03",
+      "pos": "s",
+      "definition": {
+         "definition_text": "having lost your bearings; confused as to time or place or personal identity",
+         "decomposition": null
+      }
+   },
+   "broken.s.05": {
+      "synset_id": "broken.s.05",
+      "pos": "s",
+      "definition": {
+         "definition_text": "thrown into a state of disarray or confusion",
+         "decomposition": null
+      }
+   },
+   "confused.a.05": {
+      "synset_id": "confused.a.05",
+      "pos": "a",
+      "definition": {
+         "definition_text": "mentally confused; unable to think with clarity or act intelligently",
+         "decomposition": null
+      }
+   },
+   "emotionally.r.01": {
+      "synset_id": "emotionally.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "in an emotional manner",
+         "decomposition": null
+      }
+   },
+   "emotionally.r.02": {
+      "synset_id": "emotionally.r.02",
+      "pos": "r",
+      "definition": {
+         "definition_text": "with regard to emotions",
+         "decomposition": null
+      }
+   },
+   "manner.n.01": {
+      "synset_id": "manner.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "how something is done or how it happens",
+         "decomposition": null
+      }
+   },
+   "means.n.01": {
+      "synset_id": "means.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "how a result is obtained or an end is achieved",
+         "decomposition": null
+      }
+   },
+   "direction.n.01": {
+      "synset_id": "direction.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a line leading to a place or point",
+         "decomposition": null
+      }
+   },
+   "way.n.04": {
+      "synset_id": "way.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the condition of things generally",
+         "decomposition": null
+      }
+   },
+   "way.n.05": {
+      "synset_id": "way.n.05",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a course of conduct",
+         "decomposition": null
+      }
+   },
+   "way.n.06": {
+      "synset_id": "way.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "any artifact consisting of a road or path affording passage from one place to another",
+         "decomposition": null
+      }
+   },
+   "way.n.07": {
+      "synset_id": "way.n.07",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a journey or passage",
+         "decomposition": null
+      }
+   },
+   "room.n.02": {
+      "synset_id": "room.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "space for movement",
+         "decomposition": null
+      }
+   },
+   "way.n.09": {
+      "synset_id": "way.n.09",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the property of distance in general",
+         "decomposition": null
+      }
+   },
+   "way.n.10": {
+      "synset_id": "way.n.10",
+      "pos": "n",
+      "definition": {
+         "definition_text": "doing as one pleases or chooses",
+         "decomposition": null
+      }
+   },
+   "way.n.11": {
+      "synset_id": "way.n.11",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a general category of things; used in the expression `in the way of'",
+         "decomposition": null
+      }
+   },
+   "way.n.12": {
+      "synset_id": "way.n.12",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a portion of something divided into shares",
+         "decomposition": null
+      }
+   },
+   "way.r.01": {
+      "synset_id": "way.r.01",
+      "pos": "r",
+      "definition": {
+         "definition_text": "to a great degree or by a great distance; very much (`right smart' is regional in the United States)",
+         "decomposition": null
+      }
+   },
+   "respect.n.01": {
+      "synset_id": "respect.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "(usually preceded by `in') a detail or point",
+         "decomposition": null
+      }
+   },
+   "esteem.n.01": {
+      "synset_id": "esteem.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "the condition of being honored (esteemed or respected or well regarded)",
+         "decomposition": null
+      }
+   },
+   "respect.n.03": {
+      "synset_id": "respect.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an attitude of admiration or esteem",
+         "decomposition": null
+      }
+   },
+   "deference.n.01": {
+      "synset_id": "deference.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a courteous expression (by word or deed) of esteem or regard",
+         "decomposition": null
+      }
+   },
+   "obedience.n.03": {
+      "synset_id": "obedience.n.03",
+      "pos": "n",
+      "definition": {
+         "definition_text": "behavior intended to please your parents",
+         "decomposition": null
+      }
+   },
+   "regard.n.06": {
+      "synset_id": "regard.n.06",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a feeling of friendship and esteem",
+         "decomposition": null
+      }
+   },
+   "deference.n.02": {
+      "synset_id": "deference.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "courteous regard for people's feelings",
+         "decomposition": null
+      }
+   },
+   "respect.v.01": {
+      "synset_id": "respect.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "regard highly; think much of",
+         "decomposition": null
+      }
+   },
+   "respect.v.02": {
+      "synset_id": "respect.v.02",
+      "pos": "v",
+      "definition": {
+         "definition_text": "show respect towards",
+         "decomposition": null
+      }
+   },
+   "main.n.01": {
+      "synset_id": "main.n.01",
+      "pos": "n",
+      "definition": {
+         "definition_text": "any very large body of (salt) water",
+         "decomposition": null
+      }
+   },
+   "main.n.02": {
+      "synset_id": "main.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a principal pipe in a system that distributes water or gas or electricity or that collects sewage",
+         "decomposition": null
+      }
+   },
+   "chief.s.01": {
+      "synset_id": "chief.s.01",
+      "pos": "s",
+      "definition": {
+         "definition_text": "most important element",
+         "decomposition": null
+      }
+   },
+   "independent.a.03": {
+      "synset_id": "independent.a.03",
+      "pos": "a",
+      "definition": {
+         "definition_text": "(of a clause) capable of standing syntactically alone as a complete sentence",
+         "decomposition": null
+      }
+   },
+   "main.s.02": {
+      "synset_id": "main.s.02",
+      "pos": "s",
+      "definition": {
+         "definition_text": "of force; of the greatest possible intensity",
+         "decomposition": null
+      }
+   },
+   "property.n.04": {
+      "synset_id": "property.n.04",
+      "pos": "n",
+      "definition": {
+         "definition_text": "a construct whereby objects or individuals can be distinguished",
+         "decomposition": null
+      }
+   },
+   "attribute.n.02": {
+      "synset_id": "attribute.n.02",
+      "pos": "n",
+      "definition": {
+         "definition_text": "an abstraction belonging to or characteristic of an entity",
+         "decomposition": null
+      }
+   },
+   "impute.v.01": {
+      "synset_id": "impute.v.01",
+      "pos": "v",
+      "definition": {
+         "definition_text": "attribute or credit to",
+         "decomposition": null
+      }
+   },
+   "assign.v.08": {
+      "synset_id": "assign.v.08",
+      "pos": "v",
+      "definition": {
+         "definition_text": "decide as to where something belongs in a scheme",
          "decomposition": null
       }
    }
